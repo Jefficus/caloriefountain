@@ -454,7 +454,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
 CATEGORY_PATH = "categories"
-# CATEGORY_PREFIX = "cat_"
+CATEGORY_PREFIX = ""
 
 # By default, the list of categories is stored in
 #     output / TRANSLATION[lang] / CATEGORY_PATH / index.html
@@ -476,7 +476,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# CATEGORY_PAGES_ARE_INDEXES = False
+CATEGORY_PAGES_ARE_INDEXES = False
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
