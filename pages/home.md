@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: home
+slug: index
 date: 2023-02-28 10:27:30 UTC-06:00
 tags: 
 category: 
