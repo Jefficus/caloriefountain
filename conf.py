@@ -142,16 +142,16 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/pages/home", "Home"),
+        ("/pages/home/", "Home"),
         ("/categories/labnotes/", "Lab Notes"),
         ("/categories/findings/", "Findings"),
         ("/categories/panic/", "Panic Room"),
         (
             (
+                ("/pages/about-me/", "About Me"),
                 ("/archive.html", "Archive"),
                 ("/tags/", "Tags"),
-                ("/categories/", "Categories"),
-                ("/pages/about-me/", "About Me"),
+                # ("/categories/", "Categories"),
                 ("/rss.xml", "RSS feed"),
             ), "Other"
         ),
@@ -1362,7 +1362,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # Special settings to disable only parts of the indexes plugin.
 # Use with care.
-# DISABLE_INDEXES = False
+DISABLE_INDEXES = True
 # DISABLE_MAIN_ATOM_FEED = False
 # DISABLE_MAIN_RSS_FEED = False
 
