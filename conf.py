@@ -142,7 +142,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "Home"),
+        ("/pages/home", "Home"),
         ("/categories/labnotes/", "Lab Notes"),
         ("/categories/findings/", "Findings"),
         ("/categories/panic/", "Panic Room"),
