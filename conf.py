@@ -500,12 +500,13 @@ CATEGORY_PAGES_ARE_INDEXES = True
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
 # (translatable)
-# CATEGORY_TITLES = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-posts about blogging",
-#        "open source": "Posts about open source software"
-#    },
-# }
+CATEGORY_TITLES = {
+   DEFAULT_LANG: {
+       "labnotes": "",
+       "findings": "",
+       "panic": "",
+   },
+}
 
 # If you do not want to display a category publicly, you can mark it as hidden.
 # The category will not be displayed on the category list page.
