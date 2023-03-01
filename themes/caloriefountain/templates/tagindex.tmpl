@@ -5,9 +5,13 @@
 <%block name="content_header">
     <div class="text-right">
     <header>
+        <div class="metadata">
+            ${feeds_translations.feed_link(tag, kind)}
+            ${feeds_translations.translation_link(kind)}
+        </div>
         <h1>${title|h}</h1>
         %if description:
-        <p>${description}</p>
+        <div class="description">${description}</div>
         %endif
         %if subcategories:
         ${messages('Subcategories:')}
@@ -17,10 +21,6 @@
             %endfor
         </ul>
         %endif
-        <div class="metadata">
-            ${feeds_translations.feed_link(tag, kind)}
-            ${feeds_translations.translation_link(kind)}
-        </div>
     </header>
     </div>
 </%block>
