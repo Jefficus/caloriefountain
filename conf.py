@@ -491,20 +491,21 @@ CATEGORY_PAGES_ARE_INDEXES = True
 # default is no description. The value is used in the meta description
 # and displayed underneath the category list or index page’s title.
 # (translatable)
-# CATEGORY_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging.",
-#        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
-#    },
-# }
+CATEGORY_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "labnotes": "Micro-updates about everything happening in the lab",
+       "findings": "Summary reports of more substantial investigations",
+       "panic": "Quick! How do you build a calorie fountain?"
+   },
+}
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
 # (translatable)
 CATEGORY_TITLES = {
    DEFAULT_LANG: {
-       "labnotes": "",
-       "findings": "",
-       "panic": "",
+       "labnotes": "Lab Notes",
+       "findings": "Findings and Reports",
+       "panic": "Fountain Build Instructions",
    },
 }
 
