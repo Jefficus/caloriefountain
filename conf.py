@@ -16,16 +16,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Nikola Tesla"  # (translatable)
-BLOG_TITLE = "My Nikola Site"  # (translatable)
+BLOG_AUTHOR = "Jefferson Smith"  # (translatable)
+BLOG_TITLE = "Project Calorie Fountain"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "http://bruticus:8001/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "n.tesla@example.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "jeff@smithicus.com"
+BLOG_DESCRIPTION = "If society stumbles and the grocery trucks stop rolling, will I still be able to feed my family?"  # (translatable)
 
 # Nikola is multilingual!
 #
