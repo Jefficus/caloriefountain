@@ -24,7 +24,7 @@ ${template_hooks['extra_head']()}
             </div>
         </div>
           <div class="col-md-6 col-xs-10 col-sm-10 bootblog4-brand" style="width: auto;">
-            <a class="navbar-brand blog-header-logo text-dark" href="${_link("root", None, lang)}">
+            <a class="blog-header-logo text-dark" href="${_link("root", None, lang)}">
         %if logo_url:
             <img src="${logo_url}" alt="${blog_title|h}" id="logo" class="d-inline-block align-top">
         %endif
@@ -33,6 +33,7 @@ ${template_hooks['extra_head']()}
             <span id="blog-title">${blog_title|h}</span>
         % endif
         </a>
+          <div class="tagline">${blog_description}</div>
           </div>
             <div class="col-md-3 justify-content-end align-items-center bs-nav-collapsible collapse flex-collapse bootblog4-right-nav">
             <nav class="navbar navbar-light bg-white">

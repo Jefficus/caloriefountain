@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Jefferson Smith"  # (translatable)
 BLOG_TITLE = "Project Calorie Fountain"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://bruticus:8001/"
+SITE_URL = "http://bruticus:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -493,7 +493,7 @@ CATEGORY_PAGES_ARE_INDEXES = True
 # (translatable)
 CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
-       "labnotes": "Micro-updates about everything happening in the lab",
+       "labnotes": "Quick updates on everything we do",
        "findings": "Summary reports of more substantial investigations",
        "panic": "Quick! How do you build a calorie fountain?"
    },
@@ -1423,3 +1423,4 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+_CONTEXT_FILLER = []
