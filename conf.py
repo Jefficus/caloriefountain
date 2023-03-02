@@ -143,9 +143,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/granularity/labnotes/", "Lab Notes"),
-        ("/granularity/findings/", "Findings"),
-        ("/granularity/panic/", "Panic Room"),
+        ("/priority/labnotes/", "Lab Notes"),
+        ("/priority/findings/", "Findings"),
+        ("/priority/panic/", "Panic Room"),
         (
             (
                 ("/mission/", "Mission"),
@@ -462,7 +462,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-CATEGORY_PATH = "granularity"
+CATEGORY_PATH = "priority"
 CATEGORY_PREFIX = ""
 
 # By default, the list of categories is stored in
@@ -493,8 +493,8 @@ CATEGORY_PAGES_ARE_INDEXES = True
 # (translatable)
 CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
-       "labnotes": "Quick updates on everything we do",
-       "findings": "Summary reports of more substantial investigations",
+       "labnotes": "Micro-updates on everything",
+       "findings": "Milestone updates and results",
        "panic": "Quick! How do you build a calorie fountain?"
    },
 }
