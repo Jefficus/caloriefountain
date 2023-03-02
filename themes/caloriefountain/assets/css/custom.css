@@ -4,3 +4,11 @@
     /* color: #bb9031; */
     color: #7F7F7F;
 }
+
+footer a {
+    color: #8FA051;
+}
+footer a:hover {
+    color: #8FA051;
+    text-decoration: underline;
+}
