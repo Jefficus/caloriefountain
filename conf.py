@@ -143,16 +143,15 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/categories/labnotes/", "Lab Notes"),
-        ("/categories/findings/", "Findings"),
-        ("/categories/panic/", "Panic Room"),
+        ("/granularity/labnotes/", "Lab Notes"),
+        ("/granularity/findings/", "Findings"),
+        ("/granularity/panic/", "Panic Room"),
         (
             (
                 ("/mission/", "Mission"),
                 ("/about-me/", "About Me"),
                 ("/archive.html", "Archive"),
                 ("/tags/", "Tags"),
-                # ("/categories/", "Categories"),
                 ("/rss.xml", "RSS feed"),
             ), "Other"
         ),
@@ -463,7 +462,7 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
 # (translatable)
-CATEGORY_PATH = "categories"
+CATEGORY_PATH = "granularity"
 CATEGORY_PREFIX = ""
 
 # By default, the list of categories is stored in
