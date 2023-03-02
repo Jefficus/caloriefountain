@@ -148,6 +148,7 @@ NAVIGATION_LINKS = {
         ("/categories/panic/", "Panic Room"),
         (
             (
+                ("/mission/", "Mission"),
                 ("/about-me/", "About Me"),
                 ("/archive.html", "Archive"),
                 ("/tags/", "Tags"),
