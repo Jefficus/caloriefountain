@@ -5,10 +5,10 @@
     color: #7F7F7F;
 }
 
-footer a {
+footer a, .entry-content a {
     color: #8FA051;
 }
-footer a:hover {
+footer a:hover, .entry-content a:hover {
     color: #8FA051;
     text-decoration: underline;
 }
