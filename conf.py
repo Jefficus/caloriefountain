@@ -5,7 +5,6 @@ import time
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
-
 # ! Some settings can be different in different languages.
 # ! A comment stating (translatable) is used to denote those.
 # ! There are two ways to specify a translatable setting:
@@ -140,11 +139,12 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
         ("/priority/labnotes/", "Lab Notes"),
-        ("/priority/findings/", "Findings"),
+        ("/priority/milestones/", "Milestones"),
         ("/priority/panic/", "Panic Room"),
         (
             (
@@ -493,8 +493,8 @@ CATEGORY_PAGES_ARE_INDEXES = True
 # (translatable)
 CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
-       "labnotes": "Micro-updates on everything",
-       "findings": "Milestone updates and results",
+       "labnotes": "Ad-hoc notes and updates",
+       "milestones": "Project goal tracking",
        "panic": "Quick! How do you build a calorie fountain?"
    },
 }
@@ -504,7 +504,7 @@ CATEGORY_DESCRIPTIONS = {
 CATEGORY_TITLES = {
    DEFAULT_LANG: {
        "labnotes": "Lab Notes",
-       "findings": "Findings and Reports",
+       "milestones": "Milestones",
        "panic": "Panic Room",
    },
 }
@@ -946,10 +946,20 @@ IMAGE_FOLDERS = {'images': 'images'}
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    # ("icon", "/favicon.ico", "16x16"),
+    ("icon", "/favicon.ico", "16x16"),
+    ("icon", "/favicon.ico", "24x24"),
+    ("icon", "/favicon.ico", "32x32"),
+    ("icon", "/favicon.ico", "40x40"),
+    ("icon", "/favicon.ico", "48x48"),
+    ("icon", "/favicon.ico", "64x64"),
+    ("icon", "/favicon.ico", "96x96"),
+    ("icon", "/favicon.ico", "128x128"),
+    ("icon", "/favicon.ico", "192x192"),
+    ("icon", "/favicon.ico", "256x265"),
+    # ("icon", "/icon_128x128.png", "128x128"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 INDEX_TEASERS = True
