@@ -8,7 +8,6 @@ link:
 description: 
 type: text
 hidetitle: True
-nocomments: True
 ---
 
 <div class="d-block">
@@ -16,11 +15,12 @@ nocomments: True
     <div class="col-md-6">
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
-        <h3 class="mb-0">What am I going to build?</h1>
-        <p>Has 3 essential features:
-        - large number of calories
-        - small space
-        - requires very little resources</p>
+        <h3 class="mb-0">What am I building?</h1>
+        <p>A calorie fountain is an indoor farming system that can be operated by a single person 
+        to produce sufficient calories and nutrients to feed their family indefinitely.
+        <p>In its final form, it will be capable of feeding a family of 3, year-round, and be entirely self-sufficient for the power, light and heat required to grow its crops.</p>
+        </p>
+        <p>Hopefully, I'm also building a community of <i>fountaineers</i> who are interested in the idea. Let me know you're there by commenting on the posts you find interesting.</p>
     </div>
     </div>
     </div>
@@ -28,14 +28,22 @@ nocomments: True
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
         <h3 class="mb-0">Why am I building it?</h1>
-        <p>If there's anything the pandemic taught us
-        Supply chains are more fragile than we realized.
-        City's only have 10 days of food
-        A 6-day interruption in the Suez canal caused disruptions that lasted almost a year. And frankly, the discrepancy has me worried.
-        If we run out of toilet paper, people aren't going to abandon their jobs to lock down their Charmin support, but if it's the hamburger freezer or the French fries aisle that runs dry, we've got trouble. What if your city runs out of bread and milk?
-        </p>
+        <p>Most modern cities have about 10 days worth of food on hand, yet a single traffic accident in the Suez Canal disrupted global supply chains for almost a year, and frankly, that discrepancy makes me nervous.</p>
+        <p>I believe human ingenuity can solve any problem we face, but as a wise man once said, "Optimism is great. Just be sure you've got a Plan B."</p> 
+        <p>Well, Project Calorie Fountain is my Plan B.</p>
     </div>
     </div>
     </div>
 </div>
 </div>
+
+# Organization
+All the work I'm doing to develop the calorie fountain will be posted here. This site will always be up-to-date with the most recent plans and suggestions, and can be downloading onto a laptop or even a thumb drive and viewed in your browser in any operating system and without having to install any other tools. 
+
+The site is organized into 3 main sections: 
+
+- **Lab Notes** - think of these as the project water cooler. It's where you'll find ideas, thoughts about the project, and minor status updates about the various active investigations
+- **Milesontes** - think of these as "Reports to Management." These are the more official posts I make to propose new investigation targets and report on their status
+- **Panic Room** - the button you hit if you suddenly need to know how to build a calorie fountain RIGHT NOW
+
+
