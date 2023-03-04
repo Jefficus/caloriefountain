@@ -494,8 +494,8 @@ CATEGORY_PAGES_ARE_INDEXES = True
 CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
        "labnotes": "Ad-hoc notes and updates",
-       "milestones": "Project goal tracking",
-       "panic": "Quick! How do you build a calorie fountain?"
+       "milestones": "Official project goal tracking",
+       "panic": "Quick! How do I build a calorie fountain?"
    },
 }
 
