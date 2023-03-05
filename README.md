@@ -31,10 +31,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jefficus/CalorieFountain">
-    <img src="https://jefficus.github.io/caloriefountain/images/logo3-w-text.png" alt="Logo" width="300">
+    <img src="https://jefficus.github.io/caloriefountain/images/logo3-w-text.png" alt="Logo" width="600">
   </a>
 
-<h3 align="center">CalorieFountain</h3>
+<!-- <h3 align="center">CalorieFountain</h3> -->
 
   <p align="center">
     If society stumbles and the grocery trucks stop rolling, will I still be able to feed my family?
@@ -102,26 +102,14 @@ This repository is for a simple website that contains a complete and up-to-date 
 ### Assumptions
 In order to make the CalorieFountain applicable to the widest number of disaster scenarios and regional circumstances, I'm not depending on any one set of assumptions or constraints. For some people, a "stumble" might leave them with access to electric power, while others may have to get by without running water. Some may live in a region where they'll be able to plant outdoors year-round, while others may be restricted to indoor operation for large parts of the year. This means that there can be no "one-size-fits-all" solution. So instead, CalorieFountain will recommend a solution tailored to whatever input parameters you specify. But in order to build the most versatile system possible, my own efforts are being conducted under the assumption that I'll have to provide my own power, heat, water, and light. I figure that if I can get it running in a cold and lightless cave, you can probably get it running wherever you live. I call this the Cave<sub>0</sub> Scenario.
 
-### Organization
-    - code: Source code for any apps or scripts not related to the web system.
-    - html
-    - html/data: All data files used within the system
-    - html/docs: Documents, ruminations, plans.
-    - html/blog: Blog posts for the project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Nikola][Nikola]][Nikola-URL]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,20 +238,8 @@ Project Link: [https://github.com/Jefficus/CalorieFountain](https://github.com/J
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[Nikola]: http://img.shields.io/pypi/v/Nikola.svg
+[Nikola-URL]: https://pypi.python.org/pypi/Nikola
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
 
