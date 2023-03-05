@@ -1055,7 +1055,7 @@ COMMENT_SYSTEM_ID = "caloriefountain"
 #          will not be generated for that directory.
 # PAGE_INDEX = False
 # Enable comments on pages (i.e. not posts)?
-# COMMENTS_IN_PAGES = False
+COMMENTS_IN_PAGES = True
 # Enable comments on picture gallery pages?
 # COMMENTS_IN_GALLERIES = False
 
