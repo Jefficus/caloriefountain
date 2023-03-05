@@ -6,235 +6,467 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://bruticus:8000/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/2023/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/2023/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/about-me/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/about-me.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/archive.html</loc>
-  <lastmod>2023-03-04T22:40:00Z</lastmod>
+  <loc>/about-me/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/mission/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/archive.html</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/cave-zero-the-reference-scenario/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/home-page-boxes/</loc>
+  <lastmod>2023-03-05T18:09:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/computing-optimal-crop-mix/</loc>
-  <lastmod>2023-03-04T21:50:00Z</lastmod>
+  <loc>/mission.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/growing-system-for-root-crops/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/mission/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/how-a-blog-post-is-born/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/cave-zero-the-reference-scenario.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/research-wrangling/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/cave-zero-the-reference-scenario/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/target-kratky-tank-is-greenlit/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/computing-optimal-crop-mix.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/target-minmax-is-greenlit/</loc>
-  <lastmod>2023-03-04T21:22:00Z</lastmod>
+  <loc>/posts/computing-optimal-crop-mix/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/target-salsify-prove-is-greenlit/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/growing-system-for-root-crops.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/target-sanity-check-greenlit/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/growing-system-for-root-crops/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/target-sanity-check-has-been-met/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/home-page-boxes/</loc>
+  <lastmod>2023-03-05T17:12:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/test-panic/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/how-a-blog-post-is-born.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/the-seaweed-conundrum/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/how-a-blog-post-is-born/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/theres-power-in-names/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/menu-diversity.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/what-is-caloric-power/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/research-wrangling.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/why-so-static/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/research-wrangling/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/priority/</loc>
-  <lastmod>2023-03-05T00:52:00Z</lastmod>
+  <loc>/posts/rumination-on-nikola-structure.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/priority/labnotes/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/setting-expectations.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/priority/milestones/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-kratky-tank-is-greenlit.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/priority/panic/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-kratky-tank-is-greenlit/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/</loc>
-  <lastmod>2023-03-05T00:52:00Z</lastmod>
+  <loc>/posts/target-minmax-is-greenlit.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/awareness/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-minmax-is-greenlit/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/calories/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-salsify-prove-is-greenlit.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/conditions/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-salsify-prove-is-greenlit/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/crops/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-sanity-check-greenlit.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/definitions/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-sanity-check-greenlit/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/equipment/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-sanity-check-has-been-met.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/flavor/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/target-sanity-check-has-been-met/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/meta/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/test-panic.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/methodology/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/test-panic/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/metrics/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/the-seaweed-conundrum.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/microprojects/</loc>
-  <lastmod>2023-03-04T22:41:00Z</lastmod>
+  <loc>/posts/the-seaweed-conundrum/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/nutrition/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/theres-power-in-names.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/organization/</loc>
-  <lastmod>2023-03-04T22:41:00Z</lastmod>
+  <loc>/posts/theres-power-in-names/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/panic/</loc>
-  <lastmod>2023-03-04T22:19:00Z</lastmod>
+  <loc>/posts/what-is-caloric-power.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/post-apocalypse/</loc>
-  <lastmod>2023-03-04T22:19:00Z</lastmod>
+  <loc>/posts/what-is-caloric-power/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/projects/</loc>
-  <lastmod>2023-03-04T22:41:00Z</lastmod>
+  <loc>/posts/why-so-static.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/psychology/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/posts/why-so-static/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/resources/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/priority/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/salsify/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/priority/labnotes.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/scenarios/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/priority/labnotes/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/sharing/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/priority/milestones.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/smartphones/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/priority/milestones/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/software/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/priority/panic.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/target-kratky-tank/</loc>
-  <lastmod>2023-03-04T01:12:00Z</lastmod>
+  <loc>/priority/panic/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/target-minmax/</loc>
-  <lastmod>2023-03-04T21:49:00Z</lastmod>
+  <loc>/tags/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/target-salsify-prove/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/awareness.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/target-sanity-check/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/awareness/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/targets/</loc>
-  <lastmod>2023-03-04T22:40:00Z</lastmod>
+  <loc>/tags/calories.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/tasks/</loc>
-  <lastmod>2023-03-04T22:41:00Z</lastmod>
+  <loc>/tags/calories/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/tools/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/conditions.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/usability/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/conditions/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/website/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/crops.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/yields/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/crops/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/definitions.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/definitions/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/equipment.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/equipment/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/flavor.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/flavor/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/meta.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/meta/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/methodology.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/methodology/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/metrics.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/metrics/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/microprojects.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/microprojects/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/nutrition.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/nutrition/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/organization.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/organization/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/panic.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/panic/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/post-apocalypse.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/post-apocalypse/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/projects.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/projects/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/psychology.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/psychology/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/resources.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/resources/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/salsify.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/salsify/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/scenarios.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/scenarios/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/sharing.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/sharing/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/smartphones.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/smartphones/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/software.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/software/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-kratky-tank.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-kratky-tank/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-minmax.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-minmax/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-salsify-prove.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-salsify-prove/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-sanity-check.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/target-sanity-check/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/targets.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/targets/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/tasks.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/tasks/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/tools.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/tools/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/usability.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/usability/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/website.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/website/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/yields.html</loc>
+  <lastmod>2023-03-05T18:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>/tags/yields/</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </url>
 </urlset>

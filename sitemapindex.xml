@@ -6,155 +6,155 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://bruticus:8000/priority/labnotes.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/priority/labnotes.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/priority/milestones.xml</loc>
-  <lastmod>2023-03-04T22:02:00Z</lastmod>
+  <loc>/priority/milestones.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/priority/panic.xml</loc>
-  <lastmod>2023-03-04T22:19:00Z</lastmod>
+  <loc>/priority/panic.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/rss.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/rss.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/sitemap.xml</loc>
-  <lastmod>2023-03-05T00:54:00Z</lastmod>
+  <loc>/sitemap.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/awareness.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/awareness.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/calories.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/calories.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/conditions.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/conditions.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/crops.xml</loc>
-  <lastmod>2023-03-04T22:00:00Z</lastmod>
+  <loc>/tags/crops.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/definitions.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/definitions.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/equipment.xml</loc>
-  <lastmod>2023-03-04T22:02:00Z</lastmod>
+  <loc>/tags/equipment.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/flavor.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/flavor.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/meta.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/tags/meta.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/methodology.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/methodology.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/metrics.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/metrics.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/microprojects.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/tags/microprojects.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/nutrition.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/nutrition.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/organization.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/tags/organization.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/panic.xml</loc>
-  <lastmod>2023-03-04T22:19:00Z</lastmod>
+  <loc>/tags/panic.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/post-apocalypse.xml</loc>
-  <lastmod>2023-03-04T22:19:00Z</lastmod>
+  <loc>/tags/post-apocalypse.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/projects.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/tags/projects.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/psychology.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/psychology.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/resources.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/resources.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/salsify.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/salsify.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/scenarios.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/scenarios.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/sharing.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/sharing.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/smartphones.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/smartphones.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/software.xml</loc>
-  <lastmod>2023-03-04T22:00:00Z</lastmod>
+  <loc>/tags/software.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/target-kratky-tank.xml</loc>
-  <lastmod>2023-03-04T22:02:00Z</lastmod>
+  <loc>/tags/target-kratky-tank.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/target-minmax.xml</loc>
-  <lastmod>2023-03-04T22:00:00Z</lastmod>
+  <loc>/tags/target-minmax.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/target-salsify-prove.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/target-salsify-prove.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/target-sanity-check.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/target-sanity-check.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/targets.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/tags/targets.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/tasks.xml</loc>
-  <lastmod>2023-03-04T22:52:00Z</lastmod>
+  <loc>/tags/tasks.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/tools.xml</loc>
-  <lastmod>2023-03-04T22:00:00Z</lastmod>
+  <loc>/tags/tools.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/usability.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/usability.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/website.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/website.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://bruticus:8000/tags/yields.xml</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
+  <loc>/tags/yields.xml</loc>
+  <lastmod>2023-03-05T18:59:00Z</lastmod>
  </sitemap>
 </sitemapindex>
