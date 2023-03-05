@@ -22,56 +22,8 @@
   <lastmod>2023-03-04T22:40:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/categories/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/categories/findings/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/categories/hidden/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/categories/labnotes/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/categories/panic/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/granularity/</loc>
-  <lastmod>2023-03-02T22:04:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/granularity/findings/</loc>
-  <lastmod>2023-03-02T22:04:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/granularity/labnotes/</loc>
-  <lastmod>2023-03-02T22:04:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/granularity/panic/</loc>
-  <lastmod>2023-03-02T22:04:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/mission-page/</loc>
-  <lastmod>2023-03-02T15:18:00Z</lastmod>
- </url>
- <url>
   <loc>http://bruticus:8000/mission/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/acquire-target-kratkytank-01/</loc>
-  <lastmod>2023-03-04T01:09:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/acquire-target-kratkytank/</loc>
-  <lastmod>2023-03-04T01:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/posts/cave-zero-the-reference-scenario/</loc>
@@ -90,14 +42,6 @@
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/mission-page/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/optimizing-the-crop-mix-for-nutrition/</loc>
-  <lastmod>2023-03-04T21:19:00Z</lastmod>
- </url>
- <url>
   <loc>http://bruticus:8000/posts/research-wrangling/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
@@ -114,36 +58,12 @@
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/posts/target-sanity-acquired/</loc>
-  <lastmod>2023-03-03T02:51:00Z</lastmod>
- </url>
- <url>
   <loc>http://bruticus:8000/posts/target-sanity-check-greenlit/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/posts/target-sanity-check-has-been-met/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/target-sanity-greenlit/</loc>
-  <lastmod>2023-03-04T14:16:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/target-sanity-has-been-met/</loc>
-  <lastmod>2023-03-03T03:53:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/target-sanity-is-acquired/</loc>
-  <lastmod>2023-03-03T03:31:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/target-sanity-is-hit/</loc>
-  <lastmod>2023-03-03T02:51:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/posts/test-findings/</loc>
-  <lastmod>2023-03-01T22:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/posts/test-panic/</loc>
@@ -167,11 +87,7 @@
  </url>
  <url>
   <loc>http://bruticus:8000/priority/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/priority/findings/</loc>
-  <lastmod>2023-03-02T22:17:00Z</lastmod>
+  <lastmod>2023-03-05T00:52:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/priority/labnotes/</loc>
@@ -187,7 +103,7 @@
  </url>
  <url>
   <loc>http://bruticus:8000/tags/</loc>
-  <lastmod>2023-03-04T22:41:00Z</lastmod>
+  <lastmod>2023-03-05T00:52:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/tags/awareness/</loc>
@@ -210,19 +126,11 @@
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/deliverables/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
- </url>
- <url>
   <loc>http://bruticus:8000/tags/equipment/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/tags/flavor/</loc>
-  <lastmod>2023-03-04T18:58:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/tags/infrastructure/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
  </url>
  <url>
@@ -294,18 +202,6 @@
   <lastmod>2023-03-04T01:12:00Z</lastmod>
  </url>
  <url>
-  <loc>http://bruticus:8000/tags/target-kratkytank-01/</loc>
-  <lastmod>2023-03-04T01:09:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/tags/target-kratkytank/</loc>
-  <lastmod>2023-03-04T01:11:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/tags/target-minimax/</loc>
-  <lastmod>2023-03-04T21:57:00Z</lastmod>
- </url>
- <url>
   <loc>http://bruticus:8000/tags/target-minmax/</loc>
   <lastmod>2023-03-04T21:49:00Z</lastmod>
  </url>
@@ -316,10 +212,6 @@
  <url>
   <loc>http://bruticus:8000/tags/target-sanity-check/</loc>
   <lastmod>2023-03-04T18:58:00Z</lastmod>
- </url>
- <url>
-  <loc>http://bruticus:8000/tags/target-sanity/</loc>
-  <lastmod>2023-03-03T03:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://bruticus:8000/tags/targets/</loc>
