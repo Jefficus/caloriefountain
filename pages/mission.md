@@ -21,7 +21,7 @@ So the question I keep asking myself, is the one up there in the banner of this 
 
 I'm not about to lay in a 12 year supply of canned asparagus. During a food crisis, that stack of cans would make me indistinguishable from a hoarder, so I'd wind up with a target on my back from every asparigatarian warlord of the apocalypse. 
 
-So instead of creating a *stockpile* of food, which would only last a few weeks anyway, my goal is to devise a *generator* of food. A calorie fountain. Something that can be replicated anywhere, feed a family, and do so indefinitely.
+Instead of creating a *stockpile* of food, then, which would only last a few weeks, my goal is to devise a *generator* of food. A calorie fountain. Something that can be replicated anywhere, feed a family, and do so indefinitely.
 
-I, for one, am saying no to our [asparigatarian overlords](/images/asparigatarian_overlord.png). And if you want to say no too, I'll be giving the plans away for free.
+So I am saying no to our [asparigatarian overlords](/images/asparigatarian_overlord.png). And if you want to say no too, I'll be giving the plans away for free.
 
