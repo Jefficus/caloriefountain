@@ -238,9 +238,8 @@ Project Link: [https://github.com/Jefficus/CalorieFountain](https://github.com/J
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Nikola.comj]: https://github.com/getnikola/nikola/workflows/Nikola%20CI/badge.svg
-[Nikola]: https://github.com/getnikola/nikola/actions
-[Nikola-URL]: https://pypi.python.org/pypi/Nikola
+[Nikola.com]: https://github.com/getnikola/nikola/workflows/Nikola%20CI/badge.svg
+[Nikola-URL]: https://github.com/getnikola/nikola/actions
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
