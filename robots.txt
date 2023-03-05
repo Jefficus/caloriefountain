@@ -1,0 +1,4 @@
+Sitemap: http://bruticus:8000/sitemapindex.xml
+
+User-Agent: *
+Host: bruticus:8000

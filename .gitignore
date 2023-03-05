@@ -1,6 +1,0 @@
-.doit.db
-*.py[cod]
-*.swp
-cache/
-output/
-watchdog
