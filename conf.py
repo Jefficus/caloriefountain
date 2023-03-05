@@ -22,7 +22,7 @@ BLOG_TITLE = "Project Calorie Fountain"  # (translatable)
 SITE_URL = "http://bruticus:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
+BASE_URL = "/"
 BLOG_EMAIL = "jeff@smithicus.com"
 BLOG_DESCRIPTION = "If society stumbles and the grocery trucks stop rolling, will I still be able to feed my family?"  # (translatable)
 
