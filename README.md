@@ -108,7 +108,7 @@ In order to make the CalorieFountain applicable to the widest number of disaster
 
 ### Built With
 
-* [![Nikola][Nikola]][Nikola-URL]
+* [![Nikola][Nikola.com]][Nikola-URL]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -239,6 +239,7 @@ Project Link: [https://github.com/Jefficus/CalorieFountain](https://github.com/J
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [Nikola]: http://img.shields.io/pypi/v/Nikola.svg
+[Nikola.com]: https://img.shields.io/requires/github/getnikola/nikola.svg
 [Nikola-URL]: https://pypi.python.org/pypi/Nikola
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
