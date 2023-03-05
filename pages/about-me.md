@@ -12,7 +12,7 @@ type: text
 <img src="/images/Jeff-Headshot.jpg" class="float-right col-md-4"></img>
 Good question. Depending on my mood and blood sugar levels, I've most often answered that with one of: computer scientist, creativity theorist, fantasy and science fiction author, computer animation consultant, or tech entrepreneur. But recently I've added another title to that strange roulette wheel: experimental indoor farmer.
 
-I should stress that I am neither a biologist nor even an experienced farmer, but I think that's a strength for this particular project. You don't want to be trying to follow the precise protocols laid out by a team of research chemists and biology theorists — you want to be following a schmoe like me, because anything I can achieve, you can do better.
+I should stress that my PhD is in computer science, not biology. I'm not even an experienced farmer. But I think that's a strength in this particular project. You don't want to be following a complicated laboratory protocol laid down by a team of research chemists and biology theorists — you want something a schmoe like me could figure out, because then there's a very good chance you'll be able to do it too.
 
 # Connection Points
 

@@ -16,11 +16,9 @@ hidetitle: True
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
         <h3 class="mb-0">What am I building?</h1>
-        <p>A calorie fountain is an indoor farming system that can be operated by a single person 
-        to produce sufficient calories and nutrients to feed their family indefinitely.
-        <p>In its final form, it will be capable of feeding a family of 3, year-round, and be entirely self-sufficient for the power, light and heat required to grow its crops.</p>
+        <p>A calorie fountain is an indoor farming system that can keep a small family fed during a crisis. Slam-dunk success would be a system that can feed three adults indefinitely, while being self-sufficient for its power, light and heating needs. But I'll take anything that doesn't poison the family and set fire to the dog.</p>
         </p>
-        <p>Hopefully, I'm also building a community of <i>fountaineers</i> who are interested in the idea. Let me know you're there by commenting on the posts you find interesting.</p>
+        <p>Along the way, I hope to also build a community of <i>fountaineers</i> who are intrigued by the idea. Drop a comment somewhere and let me know you're here.</p>
     </div>
     </div>
     </div>
