@@ -23,5 +23,5 @@ I'm not about to lay in a 12 year supply of canned asparagus. During a food cris
 
 Instead of creating a *stockpile* of food, then, which would only last a few weeks, my goal is to devise a *generator* of food. A calorie fountain. Something that can be replicated anywhere, feed a family, and do so indefinitely.
 
-So I am saying no to our [asparigatarian overlords](/images/asparigatarian_overlord.png). And if you want to say no too, I'll be giving the plans away for free.
+So I am saying no to our [asparigatarian overlords](/images/asparigatarian_overlord.jpg). And if you want to say no too, I'll be giving the plans away for free.
 
