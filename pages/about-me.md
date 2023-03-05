@@ -16,15 +16,15 @@ I should stress that I am neither a biologist nor even an experienced farmer, bu
 
 # Connection Points
 
-- Creativity Hacker (my main website)
-- Reddit
-- WT.Social (Wikipedia's experiment in ethical social media)
-- Disqus
-- Discord
+- [Creativity Hacker](https://creativityhacker.ca) (my main website)
+- [Reddit](https://reddit.com/u/JeffersonSmithAuthor)
+- [WT.Social](https://wt.social/u/jefferson-smith) (Wikipedia's experiment in ethical social media)
+- [Disqus](https://disqus.com/by/disqus_FHrYVTzhAH/)
+- [Discord](https://discordapp.com/users/927212747953934367)
 
 # Dead To Me
 I've made the decision to abandon my social media presence wherever black-box content-filtering algorithms are used, because I believe they are dividing society into silos and destroying public discourse. If we don't have control over what we see, I won't participate. So far, that list includes:
 
-- Facebook
-- Twitter
-- TikTok
+- ~~Facebook~~
+- ~~Twitter~~
+- ~~TikTok~~
