@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jefficus/CalorieFountain">
-    <img src="./output/image/logo3-w-text.png" alt="Logo" width="300">
+    <img src="https://jefficus.github.io/caloriefountain/images/logo3-w-text.png" alt="Logo" width="300">
   </a>
 
 <h3 align="center">CalorieFountain</h3>
@@ -40,7 +40,7 @@
     If society stumbles and the grocery trucks stop rolling, will I still be able to feed my family?
     <br />
     <br />
-    <a href="https://github.com/Jefficus/CalorieFountain">View Demo</a>
+    <a href="https://jefficus.github.io/caloriefountain">View Live Site</a>
     ·
     <a href="https://github.com/Jefficus/CalorieFountain/issues">Report Bug</a>
     ·
