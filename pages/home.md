@@ -27,12 +27,11 @@ hidetitle: True
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
         <h3 class="mb-0">Why am I building it?</h1>
-        <p>The natural world is trying to pay us dividends on our hubris, and no matter which payments we try to stop, the chances of stopping them all in time seems grim.</p>
+        <p>The natural world is trying to pay dividends on our oblivious history, but no matter which payments we try to stop, the chances of stopping them all seems grim.</p>
 
         <p>What happens then? Well, there’s one tipping point I see that could very well trigger a collapse. If we panicked over a hiccup in the <i>toilet paper</i> supply, just imagine what will happen when it's the <i>food aisles</i> that are empty.</p>
 
-        <p>So, as a wise man once said, "Be as optimistic as you like. Just be sure you've got a Plan B." Think of Project Calorie Fountain as my Plan B. (See <a href="/mission">Mission</a> for more.)</p>
-    </div>
+        <p>A wise man once said, "Be as optimistic as you like. Just be sure you've got a Plan B." So think of Project Calorie Fountain as my Plan B. (See more <a href="/mission">here.</a> )</p> </div>
     </div>
     </div>
 </div>
@@ -43,8 +42,8 @@ All the work I'm doing to develop the calorie fountain will be posted here. This
 
 The site is organized into 3 main sections: 
 
-- [Lab Notes](/priority/labnotes) - think of these as the project water cooler. It's where you'll find ideas, thoughts about the project, and minor status updates about the various active investigations
-- [Milestones](/priority/milestones) - think of these as "Reports to Management." These are the more official posts I make to propose new investigation targets and report on their status
-- [Panic Room](/priority/panic) - the button you hit if you suddenly need to know how to build a calorie fountain RIGHT NOW
+- [Lab Notes](/priority/labnotes) - Think of these as the project water cooler. It's where you'll find ideas, thoughts about the project, and minor status updates about the various active investigations.
+- [Milestones](/priority/milestones) - Think of these as "Reports to Management." These are the more official posts I make to propose new investigation targets and report on their status.
+- [Panic Room](/priority/panic) - The button you hit if you suddenly need to know how to build a calorie fountain RIGHT NOW.
 
 
