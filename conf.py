@@ -1285,7 +1285,10 @@ USE_CDN = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+    <script type="text/javascript" src="/assets/js/jquery-3.6.3.min.js"></script> 
+    <script type="text/javascript" src="/assets/js/sorttable.js"></script>
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
