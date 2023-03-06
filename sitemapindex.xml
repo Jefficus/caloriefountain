@@ -11,7 +11,7 @@
  </sitemap>
  <sitemap>
   <loc>/priority/milestones.xml</loc>
-  <lastmod>2023-03-06T17:07:00Z</lastmod>
+  <lastmod>2023-03-06T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/priority/panic.xml</loc>
@@ -19,11 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>/rss.xml</loc>
-  <lastmod>2023-03-06T17:07:00Z</lastmod>
+  <lastmod>2023-03-06T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2023-03-06T17:07:00Z</lastmod>
+  <lastmod>2023-03-06T22:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/tags/awareness.xml</loc>
@@ -131,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>/tags/target-sanity-check.xml</loc>
-  <lastmod>2023-03-06T17:07:00Z</lastmod>
+  <lastmod>2023-03-06T21:39:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/tags/targets.xml</loc>
