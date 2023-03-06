@@ -31,7 +31,7 @@
 <meta property="og:site_name" content="Project Calorie Fountain">
 <meta property="og:title" content="Computing optimal crop mix">
 <meta property="og:url" content="/posts/computing-optimal-crop-mix/">
-<meta property="og:description" content="This seems to be a standard problem in multivariate optimization, but it's been several decades since I studied the math for linear programming, so I'll start by trying to employ the LP tools in Pytho">
+<meta property="og:description" content="When it comes to finding the optimal crops to support a family, there are a number of factors to consider: how much space is available, how many people are being supported, what are their daily calori">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2023-03-04T15:50:00-06:00">
 <meta property="article:tag" content="crops">
@@ -122,7 +122,12 @@
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <p>This seems to be a standard problem in multivariate optimization, but it's been several decades since I studied the math for linear programming, so I'll start by trying to employ the LP tools in Python’s SciPy module, as outlined in <a href="https://realpython.com/python-scipy-cluster-optimize/#minimizing-a-function-with-many-variables">this article</a>.</p>
+    <p>When it comes to finding the optimal crops to support a family, there are a number of factors to consider: how much space is available, how many people are being supported, what are their daily calorie requirements, what vitamins and minerals does each crop provide... There's a <em>lot</em> to consider. And it's not like I can pick just one “best” mix and build a one-size-fits-all system around that. I need to figure out the optimal mix for my own scenario while allowing other fountaineers to figure out the right mix for <em>theirs</em> . Sounds complicated, right?</p>
+<!-- TEASER_END -->
+
+<p>Well, if I were coming at this problem cold, it would definitely be a challenge, but this is where life chose to play the irony card on me. There was one course in my undergraduate math degree (35 years ago) that I had to take three times in order to master its dark mysteries: Linear Programming. And it just so happens that solving this crop problem is a classic example of a multivariate optimization problem. Care to guess which undergraduate class deals with those?</p>
+<p>Fortunately, I won't have to do the math myself. (Whew!) I just needed to remember enough of that class to recognize the problem type and recall a few key terms to search in Google. And that led me to the linear programming tools in Python's SciPy module.</p>
+<p>I even found a <a href="https://realpython.com/python-scipy-cluster-optimize/#minimizing-a-function-with-many-variables">decent article</a> outlining how to use the module to solve multivariate problems. Hopefully I'll be able to just build a little script and let Python do the math for me.</p>
     </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="../../tags/crops/" rel="tag">crops</a></li>
