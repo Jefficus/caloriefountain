@@ -51,15 +51,24 @@ OBSLINK_RE = r"(\[{2})(.+?)(\]{2})"  # [[pagelink]]
 class ObsidianPostProcessor(Postprocessor):
     """Obsidian-specific post-processing for Markdown."""
 
+
+
     def run(self, text):
         """Run the postprocessor."""
         output = text
+
+        def urlify(m):
+            title = m.group(1)
+            slug = re.sub(' ', '-', title).lower()
+            linktag = f'<a href="/posts/{slug}">{title}</a>'
+            return linktag
 
         # python-markdown's highlighter uses <div class="codehilite"><pre>
         # for code.  We switch it to reST's <pre class="code">.
         # TODO: monkey-patch for CodeHilite that uses nikola.utils.NikolaPygmentsHTML
         # output = CODERE.sub('<pre class="code literal-block">\\1</pre>', output)
-        output = CODERE.sub('<a href="/posts/\\1.md">\\1</a>', output)
+        output = re.sub('<reference>(.*?)</reference>', urlify, output)
+        # output = CODERE.sub('<a href="/posts/\\1.md">\\1</a>', output)
         return output
 
 
