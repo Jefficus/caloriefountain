@@ -1,0 +1,14 @@
+[Core]
+name = mdx_showsplit
+module = mdx_showsplit
+
+[Nikola]
+compiler = markdown
+PluginCategory = CompilerExtension
+
+[Documentation]
+author = Jefferson Smith
+version = 0.1
+website = https://getnikola.com/
+description = Show teaser split Markown extensions
+
