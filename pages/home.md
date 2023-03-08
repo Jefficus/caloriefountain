@@ -16,10 +16,10 @@ hidetitle: True
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
         <h3 class="mb-0">What am I building?</h1>
-        <p>I call it a "calorie fountain" — an indoor farming system that can feed a small family during a crisis and fit within a single room of a suburban home.</p>
+        <p>I call it a "calorie fountain" — an indoor farming system that can feed a small family and fit within a single room of a suburban home.</p>
         <p>Slam-dunk success would be a system that can support three adults indefinitely, while being self-sufficient for all its power, light and heating needs. But I'll take anything that doesn't poison the family and set fire to the dog.</p>
         </p>
-        <p>I also hope to build a community of <i>fountaineers</i> who are intrigued by the idea and want to get involved. Drop a comment somewhere and let me know you're here.</p>
+        <p>I also hope to build a community of <i>fountaineers</i> who are intrigued by the idea and want to get involved. Step 1 is to engage in the comments.</p>
     </div>
     </div>
     </div>
@@ -27,23 +27,22 @@ hidetitle: True
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
         <h3 class="mb-0">Why am I building it?</h1>
-        <p>The natural world is trying to pay dividends on our oblivious history, but no matter which payments we try to stop, the chances of stopping them all seems grim.</p>
-
-        <p>What happens then? Well, there’s one tipping point I see that could very well trigger a collapse. If we panicked over a hiccup in the <i>toilet paper</i> supply, just imagine what will happen when it's the <i>food aisles</i> that are empty.</p>
-
-        <p>A wise man once said, "Be as optimistic as you like. Just be sure you've got a Plan B." So think of Project Calorie Fountain as my Plan B. (See more <a href="/mission">here.</a> )</p> </div>
+        <p> 1/3 of children in Canada go to bed hungry at least once a week because their families can't afford groceries, yet current indoor farming ventures seem focused on leafy "supplemental" crops — growing salads for the middle class — because that's where the money is that can provide a return for their investors.</p>
+        <p>But what if we used those same technologies to bring food security to those who don't have it? Better yet, instead of selling the food to them, what if we could show them how to build their own system and grow a nutritionally sufficient diet they could live on indefinitely?</p>
+    </div>
     </div>
     </div>
 </div>
 </div>
 
 # Organization
+
 All the work I'm doing to develop the calorie fountain will be posted here. This site will always be up-to-date with the most recent plans and suggestions, and can be downloading onto a laptop or even a thumb drive and viewed in your browser in any operating system and without having to install any other tools. 
 
 The site is organized into 3 main sections: 
 
 - [Lab Notes](/priority/labnotes) - Think of these as the project water cooler. It's where you'll find ideas, thoughts about the project, and minor status updates about the various active investigations.
 - [Milestones](/priority/milestones) - Think of these as "Reports to Management." These are the more official posts I make to propose new investigation targets and report on their status.
-- [Panic Room](/priority/panic) - The button you hit if you suddenly need to know how to build a calorie fountain RIGHT NOW.
+- [Plans](/priority/plans) - The point of the whole project — get the plans and build a calorie fountain for yourself.
 
 

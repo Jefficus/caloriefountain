@@ -1,11 +1,10 @@
-<!--
-.. title: Mission
-.. tags: meta
-.. category: hidden
-.. date: 2023-02-26 13:37:01 UTC-06:00
-.. description:
-.. status: published
--->
+---
+title: Mission
+tags: meta
+category: hidden
+date: 2023-02-26 13:37:01 UTC-06:00
+status: draft
+---
 
 <img src="/images/botticelli_fountain.jpg" class="float-left col-md-3">I live on the Canadian prairies, one of the breadbaskets to the world, but food isn't any cheaper or more plentiful here than it is in other places, because that's how modern society works. We live in a truly globe-spanning market, and regardless of where things might actually be produced, they're quickly packed up and shipped off to everywhere else. Everything from smartphones to underwear, from car parts to chicken fingers. The fruits of the world are literally at our fingertips.
 

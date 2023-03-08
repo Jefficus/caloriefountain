@@ -18,7 +18,7 @@
 <!-- <h3 align="center">CalorieFountain</h3> -->
 
   <p align="center">
-    <i>If society stumbles and the grocery trucks stop rolling, will I still be able to feed my family?</i>
+    <i>In an enlightened society, shouldn't </i>everyone<i> have the power to feed their family?</i>
     <br />
     <br />
     <a href="https://jefficus.github.io/caloriefountain">View Live Site</a>
@@ -35,24 +35,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-If the COVID pandemic taught me anything, it's that our supply chains are fragile and that the civility of society can be disrupted by something as trivial as a toilet paper shortage. This led me to wonder, "What would happen if we ever had a shortage that extended to food?"
+1/3 of children in Canada go to bed hungry at least once a week because their families can't afford groceries, yet current indoor farming ventures seem focused on leafy "supplemental" crops — growing salads for the middle class — because that's where the money is that can provide a return for their investors.
 
-In science fiction stories of the apocalypse, authors often imagine society reforming around violent warlords who rule the landscape with a brutal fist in order to seize and control stockpiles of food and other essential resources. And given the Great Toilet Paper Experiment of 2020, it is easy to see how this could actually come to pass — especially if people got the impression that they and their families were facing starvation.
+But what if we used those same technologies to bring food security to those who don't have it? Better yet, instead of selling the food to them, what if we could show them how to build their own system and grow a nutritionally sufficient diet they could live on indefinitely?
 
-I am fundamentally an optimist — I believe that human ingenuity will resolve the greatest threats we face before they can bite us too badly. But I am also a pragmatist. We just wouldn't be human beings if we didn't find ways to stumble along the way. The danger lies in how those stumbles manifest, and in how we each respond to them. 
+Well I'm pleased to report that my preliminary investigation suggested that it is indeed plausible. I haven't put it all to the test yet, but that's what this project is all about — figuring out how to turn "plausible" into "actual". I call my solution a "Calorie Fountain," and I'm optimistic enough about it that I think it's worth pursuing the rest of this work publicly, in the hope that others might be interested in following along, or maybe even getting involved.
 
-Those stumbles could take any form, but in my view, most of them will not trigger a complete collapse of social order. People are fundamentally good, and will work together to resolve local outages. The one problem that worries me deeply is if one of those stumble raises even a *perceived* threat to the food supply. *That's* the condition that pushes us from a "Swiss Family Robinson" future to "Lord of the Flies." 
-
-And of all the things that might threaten the food supply, the biggest concern for me is not a problem with production - it's distribution — as was conveniently previewed for us in the Great Supply Chain Distaster of 2021 and 2022.
-
-So in light of these naggingly conceivable futures, I set out to answer two simple questions for myself: If the grocery supply chain breaks down, could my family grow enough food (here in northern Canada) to sustain ourselves year-round? And if so, what would be required to build and maintain that system? How quickly could I have it up and running? How long would it take to begin supporting us?
-
-Well, I'm pleased to say that my preliminary investigation looks promising. I haven't put it all to the test yet, but that's the next step. I call my solution a "Calorie Fountain," and I'm optimistic enough about it that I think it's worth pursuing the rest of this work publicly, in case anyone else out there wants to take advantage of it for themselves, or even get involved.
-
-This repository is for a simple website that contains a complete and up-to-date record of my research, experiments, datasets, software, blog posts, discussions, and data analyses, organized so you can download the whole thing and have a completely working copy on a computer in your own home. Or even on a thumb drive.
+This repository is for a simple website that contains a complete and up-to-date record of my research, experiments, datasets, software, blog posts, discussions, and data analyses, organized so anyone who wants to can download the whole thing and have a completely working copy on a computer in their own home. Or even on a thumb drive.
 
 ### Assumptions
-In order to make the CalorieFountain applicable to the widest number of disaster scenarios and regional circumstances, I'm not depending on any one set of assumptions or constraints. For some people, a "stumble" might leave them with access to electric power, while others may have to get by without running water. Some may live in a region where they'll be able to plant outdoors year-round, while others may be restricted to indoor operation for large parts of the year. This means that there can be no "one-size-fits-all" solution. So instead, CalorieFountain will recommend a solution tailored to whatever input parameters you specify. But in order to build the most versatile system possible, my own efforts are being conducted under the assumption that I'll have to provide my own power, heat, water, and light. I figure that if I can get it running in a cold and lightless cave, you can probably get it running wherever you live. I call this the Cave<sub>0</sub> Scenario.
+In order to make the CalorieFountain applicable to the widest number of circumstances and regions, I'm not depending on any one set of assumptions or constraints. For some people, access to electric power might be an issue, while others may have to get by without running water. Some may live in a region where they'll be able to plant outdoors year-round, while others may be restricted to indoor operation for large parts of the year. This means that there can be no "one-size-fits-all" solution. So instead, CalorieFountain will recommend a solution tailored to whatever input parameters you specify. But in order to build the most versatile system possible, my own efforts are being conducted under the assumption that Calorie Fountain will have to provide its own power, heat, and light. I figure that if I can get it running in a cold and lightless cave, you can probably get it running wherever you live. I call this the Cave<sub>0</sub> Scenario.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,8 +61,7 @@ In order to make the CalorieFountain applicable to the widest number of disaster
 <!-- GETTING STARTED -->
 ## Getting Started
 
-We'd love to see you on the site, getting involved in the discussion, or maybe even helping to do some of the research, but if you
-just want to download the website and run it locally (like, if you think we're on the brink of collapse and want to keep all the info handy so you can access it after the apocalypse), do the following:
+We'd love to see you on the site, getting involved in the discussion, or maybe even helping to do some of the research, but if you just want to download the website and run it locally, do the following:
 
 1. Clone this repo to your local machine
 2. That's it. You're done. Just open a browser on the index.html file at the root of the repo and browse from there.
@@ -78,7 +69,7 @@ just want to download the website and run it locally (like, if you think we're o
 
 ### Prerequisites
 
-None.
+None. Well, a computer of some kind with a web browser installed, but other than that, nothing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

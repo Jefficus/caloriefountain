@@ -24,7 +24,7 @@ SITE_URL = "http://bruticus:8000/"
 # If not set, defaults to SITE_URL
 BASE_URL = "/"
 BLOG_EMAIL = "jeff@smithicus.com"
-BLOG_DESCRIPTION = "If society stumbles and the grocery trucks stop rolling, will I still be able to feed my family?"  # (translatable)
+BLOG_DESCRIPTION = "In an enlightened society, shouldn't <i>everyone</i> have the power to feed their family?"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -145,10 +145,10 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ("/priority/labnotes/", "Lab Notes"),
         ("/priority/milestones/", "Milestones"),
-        ("/priority/panic/", "Panic Room"),
+        ("/priority/plans/", "Plans"),
         (
             (
-                ("/mission/", "Mission"),
+                # ("/mission/", "Mission"),
                 ("/about-me/", "About Me"),
                 ("/archive.html", "Archive"),
                 ("/tags/", "Tags"),
@@ -495,7 +495,7 @@ CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
        "labnotes": "Ad-hoc notes and updates",
        "milestones": "Official project goal tracking",
-       "panic": "Quick! How do I build a calorie fountain?"
+       "plans": "Show me how to build a calorie fountain"
    },
 }
 
@@ -505,7 +505,7 @@ CATEGORY_TITLES = {
    DEFAULT_LANG: {
        "labnotes": "Lab Notes",
        "milestones": "Milestones",
-       "panic": "Panic Room",
+       "plans": "Plans",
    },
 }
 
