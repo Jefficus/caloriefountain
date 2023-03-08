@@ -27,7 +27,7 @@ hidetitle: True
     <div class="card flex-md-row mb-4 box-shadow h-md-250">
     <div class="card-body d-flex flex-column align-items-start">
         <h3 class="mb-0">Why am I building it?</h1>
-        <p> 1/3 of children in Canada go to bed hungry at least once a week because their families can't afford groceries, yet current indoor farming ventures seem focused on leafy "supplemental" crops — growing salads for the middle class — because that's where the money is that can provide a return for their investors.</p>
+        <p> 1/5 of children in Canada go to bed hungry at least once a week because their families can't afford groceries. But current indoor farming ventures seem focused on leafy "supplemental" crops — growing salads for the middle class — because that's where the money is that can provide a return for their investors.</p>
         <p>But what if we used those same technologies to bring food security to those who don't have it? Better yet, instead of selling the food to them, what if we could show them how to build their own system and grow a nutritionally sufficient diet they could live on indefinitely?</p>
     </div>
     </div>
