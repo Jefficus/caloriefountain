@@ -48,3 +48,9 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
     content: "  "; 
     width:100%;
 }
+
+
+.teaserbreak {
+    width:50%;
+    border-top: solid #E0CF80 2px;
+}
