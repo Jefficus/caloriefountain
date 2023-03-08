@@ -6,10 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>/priority/labnotes-findings-panic.xml</loc>
-  <lastmod>2023-03-08T02:08:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>/priority/labnotes.xml</loc>
   <lastmod>2023-03-08T03:46:00Z</lastmod>
  </sitemap>
@@ -27,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>/sitemap.xml</loc>
-  <lastmod>2023-03-08T03:46:00Z</lastmod>
+  <lastmod>2023-03-08T03:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>/tags/awareness.xml</loc>

@@ -54,3 +54,8 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
     width:50%;
     border-top: solid #E0CF80 2px;
 }
+
+li.next a, li.previous a {
+    color: white;
+    background-color: #BB9030;
+}
