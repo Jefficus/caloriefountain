@@ -53,9 +53,21 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 .teaserbreak {
     width:50%;
     border-top: solid #E0CF80 2px;
+    clear:both;
 }
 
 li.next a, li.previous a {
     color: white;
     background-color: #BB9030;
+}
+
+img.float-right {
+    padding-left:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+img.float-left {
+    padding-right:20px;
+    padding-top:5px;
+    padding-bottom:5px;
 }
