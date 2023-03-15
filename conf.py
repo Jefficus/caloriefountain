@@ -1162,7 +1162,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code',
 MARKDOWN_EXTENSION_CONFIGS = {
         DEFAULT_LANG: {
         # see docs at: https://github.com/neurobin/mdx_wikilink_plus
-        'mdx_wikilink_plus': {'base_url':'/posts/',
+        'mdx_wikilink_plus': {'base_url':'/',
                               'html_class':'wikilinks',
                               'image_class':'float-right',
                               'url_whitespace': '-',
