@@ -71,3 +71,7 @@ img.float-left {
     padding-top:5px;
     padding-bottom:5px;
 }
+
+a.wikilinks {
+    color: #8FA051;
+}
