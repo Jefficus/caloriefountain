@@ -249,6 +249,7 @@ POSTS = (
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
+    # ("posts/*.wiki", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
@@ -324,11 +325,11 @@ TIMEZONE = "America/Regina"
 COMPILERS = {
     "rest": ['.rst', '.txt'],
     "markdown": ['.md', '.mdown', '.markdown'],
-    "textile": ['.textile'],
-    "txt2tags": ['.t2t'],
-    "bbcode": ['.bb'],
-    "wiki": ['.wiki'],
-    "ipynb": ['.ipynb'],
+    # "textile": ['.textile'],
+    # "txt2tags": ['.t2t'],
+    # "bbcode": ['.bb'],
+    # "wiki": ['.wiki'],
+    # "ipynb": ['.ipynb'],
     "html": ['.html', '.htm'],
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
@@ -1150,11 +1151,27 @@ PRETTY_URLS = True
 #       with the MarkdownExtension class and should not be added here.
 # Defaults are markdown.extensions.(fenced_code|codehilite|extra)
 # markdown.extensions.meta is required for Markdown metadata.
-MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
+MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 
+                       'markdown.extensions.codehilite', 
+                       'mdx_wikilink_plus', # support more expressive version of wikilink syntax
+                       'markdown.extensions.extra']
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {} (no config at all)
 # MARKDOWN_EXTENSION_CONFIGS = {}
+MARKDOWN_EXTENSION_CONFIGS = {
+        DEFAULT_LANG: {
+        # see docs at: https://github.com/neurobin/mdx_wikilink_plus
+        'mdx_wikilink_plus': {'base_url':'/posts/',
+                              'html_class':'wikilinks',
+                              'image_class':'float-right',
+                              'url_whitespace': '-',
+                              'url_case': 'lowercase',
+                             }
+        }
+}
+
+
 
 
 # Extra options to pass to the pandoc command, empty by default.
