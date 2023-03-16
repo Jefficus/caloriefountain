@@ -19,10 +19,10 @@ BLOG_AUTHOR = "Jefferson Smith"  # (translatable)
 BLOG_TITLE = "Project Calorie Fountain"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://bruticus:8000/"
+SITE_URL = "https://caloriefountain.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "/"
+# BASE_URL = "/"
 BLOG_EMAIL = "jeff@smithicus.com"
 BLOG_DESCRIPTION = "In an enlightened society, shouldn't <i>everyone</i> have the power to feed their family?"  # (translatable)
 
@@ -635,6 +635,7 @@ FRONT_INDEX_HEADER = {
 # full_path: a URL with the full path from the root
 # absolute: a complete URL (that includes the SITE_URL)
 # URL_TYPE = 'rel_path'
+URL_TYPE = 'absolute'
 
 # Extension for RSS feed files
 # RSS_EXTENSION = ".xml"
