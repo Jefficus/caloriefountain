@@ -20,9 +20,10 @@ BLOG_TITLE = "Project Calorie Fountain"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://caloriefountain.org/"
+# SITE_URL = "http://bruticua:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "/"
+BASE_URL = "/"
 BLOG_EMAIL = "jeff@smithicus.com"
 BLOG_DESCRIPTION = "In an enlightened society, shouldn't <i>everyone</i> have the power to feed their family?"  # (translatable)
 
