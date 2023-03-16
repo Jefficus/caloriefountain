@@ -1,0 +1,14 @@
+[Core]
+name = mdx_image_thumbnails
+module = mdx_image_thumbnails
+
+[Nikola]
+compiler = markdown
+PluginCategory = CompilerExtension
+
+[Documentation]
+author = Jefferson Smith
+version = 0.1
+website = https://getnikola.com/
+description = Convert image thumbnail links from Obsidian md to HTML
+

@@ -306,6 +306,10 @@ TIMEZONE = "America/Regina"
 # Default is:
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
+FILES_FOLDERS = {
+        'files': '',
+        'posts/images': 'posts/images',
+        }
 
 # One or more folders containing code listings to be processed and published on
 # the site. The format is a dictionary of {source: relative destination}.
@@ -1163,8 +1167,8 @@ MARKDOWN_EXTENSION_CONFIGS = {
         DEFAULT_LANG: {
         # see docs at: https://github.com/neurobin/mdx_wikilink_plus
         'mdx_wikilink_plus': {'base_url':'/',
-                              'html_class':'wikilinks',
-                              'image_class':'float-right',
+                              'html_class':'bloglink',
+                              'image_class':'float-right blogthumb',
                               'url_whitespace': '-',
                               'url_case': 'lowercase',
                              }

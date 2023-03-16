@@ -72,6 +72,10 @@ img.float-left {
     padding-bottom:5px;
 }
 
-a.wikilinks {
+a.bloglink {
     color: #8FA051;
+}
+img.blogthumb {
+    max-height:180px;
+    margin-bottom:10px;
 }
