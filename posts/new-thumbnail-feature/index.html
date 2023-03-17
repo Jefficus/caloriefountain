@@ -133,7 +133,10 @@ See this happy idiot? I promised him he could make a cameo on the site, to help 
 <p>My system generates website posts directly from the Markdown files in my Obsidian network, but <em>only</em> the posts come from there. Everything else — the navigation system, the template system, the layout, the stylesheets — all of that comes from Nikola. The secret sauce for how I connect the two is <em>soft linking</em>. </p>
 <p>Nikola <em>thinks</em> it's working with a regular folder full of post files within its own hierarchy, but in fact, that folder is a soft link into a subfolder of my Obsidian file tree. So any time I update an article on one of my devices, SyncThing makes sure that the update ends up on my desktop, and then the next time I generate the website, it automatically pulls the most up-to-date posts via that soft link.</p>
 <p>The easy part of today's exercise was to create an images folder within the Obsidian folder for my blog posts. Since that is within the folder that is soft linked to Nikola, those are accessible to the web generator for free. The trickier part was how to reference the images in Markdown so that Obsidian and Nikola both know how to render them properly, because they each use a slightly different markup syntax for images.</p>
-<p>And once I've figured out how to do that, I'll come back here and finish this post. (See what I mean about working on blog entries over multiple sessions? :-)</p>
+<p>And once I've figure out how to do that, I'll come back here and finish this post. (See what I mean about working on blog entries over multiple sessions? :-)</p>
+<h3>A few days later...</h3>
+<p>So I think I have it working. I had to write some install a plugin (to tell Nikola what to do with wiki-style image links) and then write some override code to tell it treat thumbnail images differently from other embedded images.</p>
+<p>But now I'm wondering if this is too much nerdy code talk for fountaineers. Probably yes.</p>
     </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="/tags/meta/" rel="tag">meta</a></li>
