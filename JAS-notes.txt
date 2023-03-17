@@ -1,0 +1,10 @@
+Building locally
+    - edit conf-local.py if nec.
+    - nikola clean; nikola build --conf=conf-local.py
+
+Validation
+    - linkchecker --no-status --no-warnings http://localhost:8000
+
+Deploy
+    - diff conf-local.py conf.py   # be sure no important diffs
+    - nikola clean; nikola build; nikola github_deploy
