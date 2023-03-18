@@ -1,0 +1,27 @@
+<p><img class="float-right blogthumb" src="/posts/images/dataglobe.jpg">In an <a href="/posts/caloric-heroes-rise-from-data-not-guessing">earlier update</a> I declared new policies to Let Data Reign and to Go Wide with it. The first refers to making decisions based on actual data, while the second refers to making sure I have <em>all</em> the data. And now the very first time I try to apply those principles, I’ve run into an unexpected roadblock.</p>
+<!-- TEASER_END -->
+<hr class='teaserbreak'>
+
+<p>As part of <a class="bloglink" href="/posts/target-minmax-is-greenlit">Target MinMax</a>, I need to assemble a more robust version of the <a href="">Caloric Power Table</a> that I developed in my preliminary study. But as I begin looking for more comprehensive crop yield data, I've encountered a problem. I expected to find what I need in databases managed by globally-focused agencies, like the UN; academics (maybe in agriculture, biology, geography or economics); or even from financial markets and commodities brokerages. But so far, nothing I've found deals with specific crops — they all aggregate things together into classes like pulses, grains, fruit &amp; nuts, oilseeds, etc. Some do go a bit deeper, splitting citrus into its own category or maybe reporting fruit separately from nuts, but I was hoping for much finer resolution than that.</p>
+<h2>How much detail do I need?</h2>
+<p>One of the things I learned the first time around was that, when comparing caloric power, (which includes issues of crop spacing and time to maturity) two crops might <em>seem</em> very similar but can differ drastically in their power ratings.</p>
+<p>Consider salsify. It’s often described as being similar to parsnips, yet its caloric power is five times higher. Or compare mustard seed and canola — two species in the same genus — yet canola has three times the caloric power of its close cousin and twice the yield. Hell, there are even varieties of green beans that have twice the power of other green beans because they mature in half the time — yet they're all <em>Phaseolus vulgarus</em>!</p>
+<p>Sigh.</p>
+<p>Clearly, if I want to find all the caloric heroes, I'll <em>need</em> to look at crop yield and lifecycle data for individual species — sometimes even different varieties. But the global data does not appear to be tracked at a fine enough resolution to let me distinguish brown lentils from red, or lima beans from kidney beans, so where can I get it?</p>
+<h2>Why global data?</h2>
+<p>My preliminary table was created by looking at a single year's crop reports from just one region. It was enough to give me some realistic numbers to work with, but I have no way of knowing if those were outlier crops or close to the average. Furthermore, I suspect that some regions of the world have access to better seeds and varieties than are available in others. So I want to build my data with averages from as many regions as possible, over a number of years, which should give a better estimate of what a fountaineer can expect. But I can't take data from too far back in time either, because then we start mixing in older heirloom varieties and older farming practices, all of which will blur the picture of what's feasible <em>today</em>.</p>
+<h2>Okay, so now what?</h2>
+<p>To recap: I need crop yield statistics, by species, from all over the planet and throughout the 2010s, but such a database probably does not already exist.</p>
+<p>Which means I’ll have to build it myself.</p>
+<p>To do this, I’ll need four things: </p>
+<ol>
+<li>a comprehensive list of crop species</li>
+<li>information about their lifecycles</li>
+<li>information about harvest yields, and</li>
+<li>information about their nutritional yields</li>
+</ol>
+<p>I've already got a good database for the nutrition data, and just now, while typing this up, I've realized where I can get the rest: seed catalogs. Taken as a group, they should list just about every seed available, along with the recommended planting densities, expected times to harvest, and the expected yields. That's almost everything I need. I'll still have to rely on crop reports to firm up the lbs/acre yield values, which are not predicted explicitly in the catalogs, but I should be able to take those coarse crop yields and adjust them for specific seed varieties by comparing the expected seed yields for different varieties of the same crop.</p>
+<p>It won't be perfect, but this database isn't about making perfect predictions — it's about making decent, data-driven predictions so I can compare the general expected behaviors of all the crops there are to chose from and winnow that list down to the few that are likely to perform best.</p>
+<h2>Next steps</h2>
+<p>Today I started downloading PDF seed catalogs from the various providers. Next I'll write up a script to pull the data I need out of the PDFs and assemble it into a <em>crop potentials</em> database. </p>
+<p>And in a strange way, this feels like an even better solution than if I'd found the global crop data I was looking for when I started. Because this way, I'm including in my system a cold, hard fact that I hadn't considered before: what seeds can I actually buy?</p>

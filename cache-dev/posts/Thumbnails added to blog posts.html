@@ -1,0 +1,15 @@
+<p><img class="float-right blogthumb" src="/posts/images/caveman-01.png"> 
+See this happy idiot? I promised him he could make a cameo on the site, to help me demonstrate a new feature in my back end system: thumbnail images for posts. </p>
+<p>Thumbnails are nothing new in the blogosphere, but I've got an unusual workflow, so in my case, even otherwise common features may sometimes require a bit of extra elbow grease. Case in point: how to get a caveman to appear on a farming website.</p>
+<!-- TEASER_END -->
+<hr class='teaserbreak'>
+
+<p>If you read the <a class="bloglink" href="/how-a-blog-post-is-born">previous post on my backend workflow</a>, you'll know that I write everything in Obsidian, which gets synced automatically to all my different computers and devices. This allows me to take my time with posts, developing them over multiple sessions, and yet always have the most recent version at my fingertips, regardless of how I might dart about between computers in the meantime.</p>
+<p>Up until today, I haven't really had a need to bring images into my Obsidian system, so when I set up the original workflow for Project Calorie Fountain, I neglected to create an image conduit. Oops. Today is just about rectifying that oversight.</p>
+<p>My system generates website posts directly from the Markdown files in my Obsidian network, but <em>only</em> the posts come from there. Everything else — the navigation system, the template system, the layout, the stylesheets — all of that comes from Nikola. The secret sauce for how I connect the two is <em>soft linking</em>. </p>
+<p>Nikola <em>thinks</em> it's working with a regular folder full of post files within its own hierarchy, but in fact, that folder is a soft link into a subfolder of my Obsidian file tree. So any time I update an article on one of my devices, SyncThing makes sure that the update ends up on my desktop, and then the next time I generate the website, it automatically pulls the most up-to-date posts via that soft link.</p>
+<p>The easy part of today's exercise was to create an images folder within the Obsidian folder for my blog posts. Since that is within the folder that is soft linked to Nikola, those are accessible to the web generator for free. The trickier part was how to reference the images in Markdown so that Obsidian and Nikola both know how to render them properly, because they each use a slightly different markup syntax for images.</p>
+<p>And once I've figure out how to do that, I'll come back here and finish this post. (See what I mean about working on blog entries over multiple sessions? :-)</p>
+<h2>A few days later...</h2>
+<p>So I think I have it working. I had to write some install a plugin (to tell Nikola what to do with wiki-style image links) and then write some override code to tell it treat thumbnail images differently from other embedded images.</p>
+<p>But now I'm wondering if this is too much nerdy code talk for fountaineers. Probably yes.</p>

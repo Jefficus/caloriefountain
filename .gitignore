@@ -3,4 +3,5 @@
 *.swp
 cache/
 output/
+archive/
 watchdog
