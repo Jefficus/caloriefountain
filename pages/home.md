@@ -43,6 +43,6 @@ The site is organized into 3 main sections:
 
 - [Lab Notes](/priority/labnotes) - Think of these as the project water cooler. It's where you'll find ideas, thoughts about the project, links to related materials, and minor status updates about my active investigations.
 - [Targets](/priority/targets) - Think of these as "Reports to Management." These are the more official posts I make to declare specific project goals and track progress toward them.
-- [Plans](/priority/plans) - The point of the whole project — get the plans and build a calorie fountain for yourself.
+- [Results](/priority/results) - The point of the whole project — get the plans and build a calorie fountain for yourself.
 
 

@@ -146,7 +146,7 @@ NAVIGATION_LINKS = {
         ("/", "Home"),
         ("/priority/labnotes/", "Lab Notes"),
         ("/priority/targets/", "Targets"),
-        ("/priority/plans/", "Plans"),
+        ("/priority/results/", "Results"),
         (
             (
                 # ("/mission/", "Mission"),
@@ -501,7 +501,7 @@ CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
        "labnotes": "Ad-hoc notes and updates",
        "targets": "Official project goal tracking",
-       "plans": "Show me how to build a calorie fountain"
+       "results": "Tools and info for building a calorie fountain"
    },
 }
 
@@ -511,7 +511,7 @@ CATEGORY_TITLES = {
    DEFAULT_LANG: {
        "labnotes": "Lab Notes",
        "targets": "Targets",
-       "plans": "Plans",
+       "results": "Results",
    },
 }
 
