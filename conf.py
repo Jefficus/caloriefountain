@@ -145,7 +145,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
         ("/priority/labnotes/", "Lab Notes"),
-        ("/priority/milestones/", "Milestones"),
+        ("/priority/targets/", "Targets"),
         ("/priority/plans/", "Plans"),
         (
             (
@@ -500,7 +500,7 @@ CATEGORY_PAGES_ARE_INDEXES = True
 CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
        "labnotes": "Ad-hoc notes and updates",
-       "milestones": "Official project goal tracking",
+       "targets": "Official project goal tracking",
        "plans": "Show me how to build a calorie fountain"
    },
 }
@@ -510,7 +510,7 @@ CATEGORY_DESCRIPTIONS = {
 CATEGORY_TITLES = {
    DEFAULT_LANG: {
        "labnotes": "Lab Notes",
-       "milestones": "Milestones",
+       "targets": "Targets",
        "plans": "Plans",
    },
 }
