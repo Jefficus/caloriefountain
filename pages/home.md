@@ -35,7 +35,7 @@ hidetitle: True
 </div>
 </div>
 
-# Organization
+# Navigation
 
 All the work I'm doing to develop the calorie fountain will be posted here. This site will always be up-to-date with the most recent plans and suggestions, and can be downloaded onto a laptop or even a thumb drive and viewed in your browser in any operating system and without having to install any other tools. 
 
