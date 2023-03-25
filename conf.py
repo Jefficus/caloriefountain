@@ -500,7 +500,7 @@ CATEGORY_PAGES_ARE_INDEXES = True
 CATEGORY_DESCRIPTIONS = {
    DEFAULT_LANG: {
        "labnotes": "Ad-hoc notes and updates",
-       "targets": "Official project goal tracking",
+       "targets": "Info about specific investigations",
        "results": "Tools and info for building a calorie fountain"
    },
 }
