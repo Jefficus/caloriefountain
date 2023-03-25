@@ -81,7 +81,7 @@
             </tr>
             </thead>
             <tbody>
-                % for post in posts:
+                % for post in sorted(posts,reverse=True,key=lambda x:list(set(['today','thisweek','completed','unsuccessful']).intersection(set(x.tags)))):
                     <tr>
                     <td>
                         % if 'today' in post.tags or 'thisweek' in post.tags:
