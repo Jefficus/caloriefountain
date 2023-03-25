@@ -79,6 +79,7 @@ img.blogthumb {
     max-height:180px;
     margin-bottom:10px;
 }
+img.jsorticon {max-width:10px;}
 table tbody tr td img.flagicon {
     max-width=35px!important;
 }
