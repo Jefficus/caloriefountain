@@ -6,363 +6,359 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>/priority/labnotes.xml</loc>
-  <lastmod>2023-03-24T22:50:00Z</lastmod>
+  <loc>https://caloriefountain.org/https%3A/caloriefountain.org/rss.xml</loc>
+  <lastmod>2023-03-28T16:18:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/priority/results.xml</loc>
-  <lastmod>2023-03-24T22:50:00Z</lastmod>
+  <loc>https://caloriefountain.org/priority/labnotes.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/priority/targets.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/priority/results.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/rss.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/priority/targets.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/sitemap.xml</loc>
-  <lastmod>2023-03-26T22:28:00Z</lastmod>
+  <loc>https://caloriefountain.org/rss.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/active.xml</loc>
-  <lastmod>2023-03-25T15:51:00Z</lastmod>
+  <loc>https://caloriefountain.org/sitemap.xml</loc>
+  <lastmod>2023-03-28T16:47:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/awareness.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/active.xml</loc>
+  <lastmod>2023-03-27T15:25:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/balanced-mode.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/awareness.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/calories.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/balanced-mode.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/capital.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/calories.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/collaboration.xml</loc>
-  <lastmod>2023-03-26T00:16:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/capital.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/completed.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/collaboration.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/conditions.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/completed.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/costs.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/conditions.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/crisis-mode.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/costs.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/crops.xml</loc>
-  <lastmod>2023-03-25T21:57:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/crisis-mode.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/data.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/crops.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/datasets.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/data.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/definitions.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/datasets.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/efficiency.xml</loc>
-  <lastmod>2023-03-26T21:39:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/definitions.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/equipment.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/efficiency.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/esthetics.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/equipment.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/expenses.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/esthetics.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/expertise.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/expenses.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/features.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/expertise.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/flavor.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/features.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/food.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/flavor.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/go-wide.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/food.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/governing-principles.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/go-wide.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/grow-lights.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/governing-principles.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/let-data-reign.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/grow-lights.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/lighting.xml</loc>
-  <lastmod>2023-03-26T21:39:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/let-data-reign.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/meta.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/lighting.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/methodology.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/meta.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/metrics.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/methodology.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/microprojects.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/metrics.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/nikola.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/microprojects.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/nutrients.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/nikola.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/nutrition.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/nutrients.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/obsidian.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/nutrition.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/operations.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/obsidian.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/organization.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/operations.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/partners.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/organization.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/power.xml</loc>
-  <lastmod>2023-03-26T21:39:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/partners.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/projects.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/power.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/psychology.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/projects.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/resources.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/psychology.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/salsify.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/resources.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/scenarios.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/salsify.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/seaweed.xml</loc>
-  <lastmod>2023-03-25T21:57:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/scenarios.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/sensors.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/seaweed.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/shape.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/sensors.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/sharing.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/shape.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/shelving.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/sharing.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/size.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/shelving.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/smartphones.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/size.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/software.xml</loc>
-  <lastmod>2023-03-26T00:09:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/smartphones.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/space.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/software.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/supplement-mode.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/space.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/supplies.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/supplement-mode.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/syncthing.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/supplies.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-brain-pick.xml</loc>
-  <lastmod>2023-03-26T00:16:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/syncthing.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-brainpick.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-brain-pick.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-capital-costs.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-brainpick.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-cheaper-nutrients.xml</loc>
-  <lastmod>2023-03-26T21:53:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-capital-costs.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-cheaper-power.xml</loc>
-  <lastmod>2023-03-26T21:39:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-cheaper-nutrients.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-kratky-how.xml</loc>
-  <lastmod>2023-03-25T15:51:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-cheaper-power.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-kratky-tank.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-kratky-how.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-minmax.xml</loc>
-  <lastmod>2023-03-26T00:09:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-kratky-tank.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-operating-costs.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-minmax.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-reduce-lumen-loss.xml</loc>
-  <lastmod>2023-03-26T21:39:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-operating-costs.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-salsify-prove.xml</loc>
-  <lastmod>2023-03-26T14:50:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-reduce-lumen-loss.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-sanity-check.xml</loc>
-  <lastmod>2023-03-25T17:26:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-salsify-prove.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-seaweed-how.xml</loc>
-  <lastmod>2023-03-25T21:57:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-sanity-check.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-seaweed-prove.xml</loc>
-  <lastmod>2023-03-25T21:57:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-seaweed-how.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/target-sketch-capital-costs.xml</loc>
-  <lastmod>2023-03-26T22:03:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/target-seaweed-prove.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/targets.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/targets.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/tasks.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/tasks.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/telemetry.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/telemetry.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/thismonth.xml</loc>
-  <lastmod>2023-03-26T00:10:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/thismonth.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/thisweek.xml</loc>
-  <lastmod>2023-03-26T22:04:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/thisweek.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/today.xml</loc>
-  <lastmod>2023-03-26T00:09:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/today.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/tools.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/tools.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/towers.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/towers.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/tracking.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/tracking.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/unsuccessful.xml</loc>
-  <lastmod>2023-03-25T21:57:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/usability.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/usability.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/verification-needed.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/verification-needed.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/website.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>/tags/website.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>/tags/yields.xml</loc>
-  <lastmod>2023-03-24T22:34:00Z</lastmod>
+  <loc>https://caloriefountain.org/tags/yields.xml</loc>
+  <lastmod>2023-03-28T16:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>
