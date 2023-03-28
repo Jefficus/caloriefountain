@@ -1,4 +1,4 @@
-Sitemap: http://bruticus:8000/sitemapindex.xml
+Sitemap: https://caloriefountain.org/sitemapindex.xml
 
 User-Agent: *
-Host: bruticus:8000
+Host: caloriefountain.org
