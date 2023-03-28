@@ -1,7 +1,9 @@
 .doit.db
+.doit-dev.db
 *.py[cod]
 *.swp
 cache/
+cache-dev
 output/
 archive/
 watchdog
