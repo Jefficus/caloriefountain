@@ -5,6 +5,7 @@
 *.xml
 cache/
 cache-dev
+conf-dev.py
 output/
 archive/
 watchdog
