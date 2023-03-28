@@ -1,4 +1,4 @@
-Sitemap: https://caloriefountain.org/sitemapindex.xml
+Sitemap: https://www.caloriefountain.org/sitemapindex.xml
 
 User-Agent: *
-Host: caloriefountain.org
+Host: www.caloriefountain.org
