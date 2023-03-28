@@ -49,8 +49,6 @@ The site is organized into 3 main sections:
 
 # Get Involved
 
-I welcome comments that contribute to this dialogue of ideas and enrich the conversation, but try to keep things constructive. This is essentially my lab notebook, so I'll be posting thoughts as they occur to me, regardless of how raw or ill-informed they might be. Don't tell me an idea is dumb — tell me what the challenges are.
+I welcome comments that contribute to this dialogue of ideas, but fair warning: I will be ruthless about editing — or outright removing — anything that I feel pollutes the spirit of collaborative discussion. 
 
-And just to give fair warning: I will be ruthless about editing — or outright removing — anything that I feel pollutes the spirit of collaborative investigation. 
-
-**Note:** After a very frustrating experiment with one comment engine, I have temporarily disabled it. A new discussion system will be available soon. Stay tuned.
+**Note:** After an unsatisfying experiment with one engine, I have temporarily disabled comments. A new discussion system will be available soon. Stay tuned.
