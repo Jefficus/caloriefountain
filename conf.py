@@ -635,8 +635,8 @@ FRONT_INDEX_HEADER = {
 # full_path: a URL with the full path from the root
 # absolute: a complete URL (that includes the SITE_URL)
 # URL_TYPE = 'rel_path'
-# URL_TYPE = 'full_path'
-URL_TYPE = 'absolute'
+URL_TYPE = 'full_path'
+# URL_TYPE = 'absolute'
 
 # Extension for RSS feed files
 # RSS_EXTENSION = ".xml"
