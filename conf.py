@@ -20,10 +20,10 @@ BLOG_TITLE = "Project Calorie Fountain"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://caloriefountain.org/"
-# SITE_URL = "http://bruticua:8000/"
+# SITE_URL = "http://bruticus:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-BASE_URL = "/"
+# BASE_URL = ""
 BLOG_EMAIL = "jeff@smithicus.com"
 BLOG_DESCRIPTION = "In an enlightened society, shouldn't <i>everyone</i> have the power to feed their family?"  # (translatable)
 
@@ -636,6 +636,7 @@ FRONT_INDEX_HEADER = {
 # full_path: a URL with the full path from the root
 # absolute: a complete URL (that includes the SITE_URL)
 # URL_TYPE = 'rel_path'
+# URL_TYPE = 'full_path'
 URL_TYPE = 'absolute'
 
 # Extension for RSS feed files
@@ -648,7 +649,7 @@ URL_TYPE = 'absolute'
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-# RSS_PATH = ""
+RSS_PATH = ""
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
@@ -1049,12 +1050,13 @@ RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, intensedebate, isso, muut, commento, utterances
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = ""
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "caloriefountain"
+# COMMENT_SYSTEM_ID = "caloriefountain"
+COMMENT_SYSTEM_ID = ""
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually
