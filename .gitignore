@@ -2,6 +2,7 @@
 .doit-dev.db
 *.py[cod]
 *.swp
+*.xml
 cache/
 cache-dev
 output/
