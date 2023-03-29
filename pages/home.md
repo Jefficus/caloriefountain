@@ -49,6 +49,5 @@ The site is organized into 3 main sections:
 
 # Get Involved
 
-Think I'm crazy? Me too, but I'd love to hear *your* reasons, so tell me what I've missed. And then, who knows? May we can resolve those problems without having to throw out the whole thing. 
+Think I'm crazy? Me too, but I'd love to hear *your* reasons. So go ahead. Tell me what I've missed, and then, who knows? May we can resolve those problems without having to throw out the entire thing.
 
-**Note:** After an unsatisfying experiment with one engine, I have temporarily disabled comments while I investigate alternative solutions. But fear not! Comments will be back soon. Stay tuned.
