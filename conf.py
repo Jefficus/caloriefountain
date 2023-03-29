@@ -1056,7 +1056,7 @@ COMMENT_SYSTEM = "isso"
 # is in the manual.
 # COMMENT_SYSTEM_ID = "caloriefountain"
 # COMMENT_SYSTEM_ID = ""
-COMMENT_SYSTEM_ID = "//Jefficus.pythonanywhere.com/"
+COMMENT_SYSTEM_ID = "https://Jefficus.pythonanywhere.com/"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually
