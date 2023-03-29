@@ -49,6 +49,6 @@ The site is organized into 3 main sections:
 
 # Get Involved
 
-I welcome comments that contribute to this dialogue of ideas, but fair warning: I will be ruthless about editing — or outright removing — anything that I feel pollutes the spirit of collaborative discussion. 
+Think I'm crazy? Me too, but I'd love to hear *your* reasons, so tell me what I've missed. And then, who knows? May we can resolve those problems without having to throw out the whole thing. 
 
-**Note:** After an unsatisfying experiment with one engine, I have temporarily disabled comments. A new discussion system will be available soon. Stay tuned.
+**Note:** After an unsatisfying experiment with one engine, I have temporarily disabled comments while I investigate alternative solutions. But fear not! Comments will be back soon. Stay tuned.
