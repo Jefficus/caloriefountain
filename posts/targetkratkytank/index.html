@@ -32,15 +32,14 @@
 <meta property="og:site_name" content="Project Calorie Fountain">
 <meta property="og:title" content='Target "Kratky Tank"'>
 <meta property="og:url" content="http://bruticus:8000/posts/targetkratkytank/">
-<meta property="og:description" content="GOAL: Build a Kratky-style growing tank with approx 4 sqft of crop space, and environment monitoring gear.
+<meta property="og:description" content="GOAL: Design and build a Kratky-style research tank with approx 4 sqft of crop space, and environment monitoring gear.
 
 
 Purpose: to be used for crop verification experiments.
 Sensors:
 
 temperature
-humidity
-water">
+hu">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2023-03-03T18:40:00-06:00">
 <meta property="article:tag" content="equipment">
@@ -131,7 +130,7 @@ water">
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <p>GOAL: Build a Kratky-style growing tank with approx 4 sqft of crop space, and environment monitoring gear.</p>
+    <p>GOAL: Design and build a Kratky-style research tank with approx 4 sqft of crop space, and environment monitoring gear.</p>
 <!--TEASER_END -->
 
 <p>Purpose: to be used for crop verification experiments.</p>
@@ -148,29 +147,44 @@ water">
 <li>tank, opaque</li>
 <li>lid, opaque</li>
 <li>internal root crop support rack</li>
-<li>LED grow light, with control API client</li>
+<li>LED grow light</li>
 <li>sensor pack, operational</li>
 <li>controller module, operational<ul>
 <li>receives/logs sensor data fm multiple tanks </li>
-<li>controls lights on multiple tanks</li>
+<li>controls/tracks lights on multiple tanks</li>
 </ul>
 </li>
 <li>3 days worth of baseline data tracking</li>
 </ul>
-<h2>Alterations (2023-03-18)</h2>
-<p>The original plan for Kratky tanks was to build all my monitors from sensor chips, so I'd be able to replicate a consistent instrument network throughout my lab inexpensively, but this would leave me trusting home-built equipment with no way to verify them.</p>
-<p>Consequently, the Kratky Tank target will use off-the-shelf sensor gear. </p>
+<h3>Sensors</h3>
 <ul>
-<li>
-<a href="https://www.amazon.ca/dp/B099R85F7Y">InkBird ITDS-01</a> that will measure TDS, EC, and water temperature </li>
-<li>
-<a href="https://www.amazon.ca/dp/B00132G102">HM Digital PH-200</a> to measure pH (and also temperature).</li>
+<li>[ ] Create a list of which modules I'll need<ul>
+<li>ESP8266 controller, w WiFi for telemetry to hub</li>
 </ul>
-<h3>Data Collection</h3>
-<p><img class="float-right blogthumb" src="/posts/images/screenshot-crop-telemetry-input.png">Since I'm not deploying automated sensors yet, the recording module can be manual too. So long as I have a system that lets me collect the manual entries easily and stores them in a way that will be data-compatible with later automated systems, I should be fine.</p>
-<p>To that end, I've built a data collection interface in Memento DB that I can run on my phone. This makes it very quick to capture the data, which means I will use it more frequently than I would a more cumbersome process.</p>
+</li>
+<li>[ ] Acquire the modules</li>
+<li>[ ] Design and assemble the sensor assembly</li>
+<li>[ ] Design and test sensor monitor</li>
+</ul>
+<h3>Data hub</h3>
+<ul>
+<li>[ ] Decide on a suitable computer board<ul>
+<li>are Raspberry Pis still the right choice?</li>
+<li>are they still having supply problems?</li>
+</ul>
+</li>
+<li>[ ] Acquire the chosen board</li>
+<li>[ ] Build the collection server, based on rapanui</li>
+<li>[ ] Plug it in and test it</li>
+</ul>
 <h3>Lights</h3>
-<p>For lights, I picked up a <a href="https://www.amazon.ca/dp/B07MH7SD1B">Roleadro 75W LED grow light</a> but I quickly grew worried that 75W wouldn't be enough, so I replaced it with a <a href="https://www.amazon.ca/dp/B08G7Y1STZ">FECiDA 1000W Dimmable LED system</a></p>
+<ul>
+<li>[x] Acquire a grow light sufficient for a 4 sqft grow tank<ul>
+<li><del><a href="https://www.amazon.ca/dp/B07MH7SD1B">Roleadro 75W LED grow light</a></del></li>
+<li><a href="https://www.amazon.ca/dp/B08G7Y1STZ">FECiDA 1000W Dimmable LED system</a></li>
+</ul>
+</li>
+</ul>
 <h3>Containers</h3>
 <ul>
 <li>[/] Find single-plant Kratky container ✔<ul>
@@ -209,15 +223,7 @@ water">
 </ul>
 </li>
 </ul>
-<p>My initial target was to create containers of appx 4 sqft, but I've since realized that these are problematic for some experiments, because they allow root networks to intermingle. I'll certainly be testing these form factors later, but for my initial tests, I need things to be more independent, so I'll start with one container per plant.</p>
-<p>I’d like to build my own containers for testing, using my 3D printer, so I can adapt and evolve the design as my needs (and experience) evolve. I know this is doable, but my initial test was a failure. I printed a 50mm cube canister in PLA, with standard print settings, filled it with water, and set it on a piece of tissue (Kleenex), thinking that if it leaked at all, the tissue would reveal the leak.</p>
-<p>Well, it has been 4 days now and I just discovered that all the water is gone, but there was never any moisture visible on the container walls or distortions of the tissue. Upon closer inspection, however, the tissue has stiffened and developed a subtle watermark texture that wasn't evident to my earlier, more cursory inspections. It seems it didn't so much <em>leak</em> as <em>osmose</em> straight through the walls of the container. </p>
-<p>I'm going to try again, but this time I'll be using PETG filament, and changing the print settings to hopefully eliminate the osmotic pathways.</p>
-<h3>Trial Tagging</h3>
-<p><img class="float-right blogthumb" src="/posts/images/label-maker.jpg">To make it easier to track trials, collect data, and avoid the predictable confusion of having 20 identical test containers, I'm using tracking tags with barcode identifiers. These barcodes are scannable by my data entry tool (described above) which can then quickly pre-load the entry screen with the pertinent unit id and be ready for my readings. </p>
-<p>For the record (in case anybody else is using Linux and wants to know about my toolchain) my tracking codes are simply the datestamp (to the second and without punctuation) of when the sample tag was printed. For example, the tag shown in the picture here is 20230318170214. This is printed over USB to a Dymo LabelManager 280, using the opensource dymoprint python script available <a href="https://github.com/computerlyrik/dymoprint">here</a>, and rendered in the code128 barcode format.</p>
-<p>(For completeness, the command to produce the barcodes is: <code>dymoprint -c code128 "$(date +%Y%m%d%H%M%S)"</code>)</p>
-    </div>
+</div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="/tags/equipment/" rel="tag">equipment</a></li>
             <li><a class="tag p-category" href="/tags/target-kratky-tank/" rel="tag">target-kratky-tank</a></li>
@@ -229,7 +235,7 @@ water">
             <li class="next">
                 <a href="/posts/growing-system-for-root-crops/" rel="next" title="Growing system for root crops">Next post</a>
             </li>
-        </ul></nav></aside><section class="comments hidden-print"><h2>Comments</h2>
+        </ul></nav></aside><section class="comments hidden-print jefficus"><h2>Comments</h2>
         
     
         <div data-title='Target "Kratky Tank"' id="isso-thread"></div>
