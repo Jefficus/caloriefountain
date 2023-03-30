@@ -7,4 +7,8 @@ Validation
 
 Deploy
     - diff conf-dev.py conf.py   # be sure no important diffs
-    - nikola clean; nikola build; nikola github_deploy
+    - nikola build -a; nikola github_deploy
+
+    # Note: that 'build -a' ensures that everything gets built - ignores caching
+    # Maybe not required for pushing new posts but definitely required
+    # when updating templates and other site structures/code

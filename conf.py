@@ -24,7 +24,7 @@ SITE_URL = "https://www.caloriefountain.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = ""
 BLOG_EMAIL = "jeff@smithicus.com"
-BLOG_DESCRIPTION = "In an enlightened society, shouldn't <i>everyone</i> have the power to feed their family?"  # (translatable)
+BLOG_DESCRIPTION = "In an enlightened society, shouldn't EVERYONE be able to feed their family?"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -1041,7 +1041,8 @@ CONTENT_FOOTER_FORMATS = {
 
 # A simple copyright tag for inclusion in RSS feeds that works just
 # like CONTENT_FOOTER and CONTENT_FOOTER_FORMATS
-RSS_COPYRIGHT = 'Contents © {date} <a href="mailto:{email}">{author}</a> {license}'
+RSS_COPYRIGHT_FANCY = 'Contents © {date} <a href="mailto:{email}">{author}</a> {license}'
+RSS_COPYRIGHT = 'Contents © {date} {author} {license}'
 RSS_COPYRIGHT_PLAIN = 'Contents © {date} {author} {license}'
 RSS_COPYRIGHT_FORMATS = CONTENT_FOOTER_FORMATS
 
