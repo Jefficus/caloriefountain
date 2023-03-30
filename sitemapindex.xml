@@ -6,12 +6,8 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://www.caloriefountain.org/priority/labnote.xml</loc>
-  <lastmod>2023-03-30T00:52:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://www.caloriefountain.org/priority/labnotes.xml</loc>
-  <lastmod>2023-03-30T15:43:00Z</lastmod>
+  <lastmod>2023-03-30T16:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/priority/results.xml</loc>
@@ -19,19 +15,19 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/priority/targets.xml</loc>
-  <lastmod>2023-03-30T15:45:00Z</lastmod>
+  <lastmod>2023-03-30T15:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/rss.xml</loc>
-  <lastmod>2023-03-30T15:45:00Z</lastmod>
+  <lastmod>2023-03-30T16:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/sitemap.xml</loc>
-  <lastmod>2023-03-30T15:45:00Z</lastmod>
+  <lastmod>2023-03-30T16:25:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/3dprint.xml</loc>
-  <lastmod>2023-03-30T14:35:00Z</lastmod>
+  <lastmod>2023-03-30T16:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/awareness.xml</loc>
@@ -43,11 +39,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/breakup.xml</loc>
-  <lastmod>2023-03-30T15:45:00Z</lastmod>
+  <lastmod>2023-03-30T15:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/calculations.xml</loc>
-  <lastmod>2023-03-30T15:43:00Z</lastmod>
+  <lastmod>2023-03-30T16:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/calories.xml</loc>
@@ -103,7 +99,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/equipment.xml</loc>
-  <lastmod>2023-03-30T14:43:00Z</lastmod>
+  <lastmod>2023-03-30T16:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/esthetics.xml</loc>
@@ -143,7 +139,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/kratky.xml</loc>
-  <lastmod>2023-03-30T15:43:00Z</lastmod>
+  <lastmod>2023-03-30T16:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/let-data-reign.xml</loc>
@@ -163,7 +159,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/methods.xml</loc>
-  <lastmod>2023-03-30T15:43:00Z</lastmod>
+  <lastmod>2023-03-30T16:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/metrics.xml</loc>
@@ -255,7 +251,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/software.xml</loc>
-  <lastmod>2023-03-30T14:35:00Z</lastmod>
+  <lastmod>2023-03-30T15:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/space.xml</loc>
@@ -295,11 +291,11 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/target-kratky-how.xml</loc>
-  <lastmod>2023-03-30T15:45:00Z</lastmod>
+  <lastmod>2023-03-30T16:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/target-kratky-tank.xml</loc>
-  <lastmod>2023-03-30T14:35:00Z</lastmod>
+  <lastmod>2023-03-30T16:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/target-minmax.xml</loc>
@@ -343,7 +339,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/thismonth.xml</loc>
-  <lastmod>2023-03-30T15:45:00Z</lastmod>
+  <lastmod>2023-03-30T15:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/thisweek.xml</loc>
@@ -355,7 +351,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/tools.xml</loc>
-  <lastmod>2023-03-30T14:35:00Z</lastmod>
+  <lastmod>2023-03-30T15:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/towers.xml</loc>
@@ -375,7 +371,7 @@
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/water.xml</loc>
-  <lastmod>2023-03-30T15:43:00Z</lastmod>
+  <lastmod>2023-03-30T16:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://www.caloriefountain.org/tags/website.xml</loc>
