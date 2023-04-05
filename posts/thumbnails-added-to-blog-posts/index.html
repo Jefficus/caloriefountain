@@ -15,7 +15,7 @@
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="/rss.xml">
-<link rel="canonical" href="https://www.caloriefountain.org/posts/new-thumbnail-feature/">
+<link rel="canonical" href="https://www.caloriefountain.org/posts/thumbnails-added-to-blog-posts/">
 <link rel="icon" href="/favicon.ico" sizes="16x16">
 <link rel="icon" href="/favicon.ico" sizes="24x24">
 <link rel="icon" href="/favicon.ico" sizes="32x32">
@@ -30,7 +30,7 @@
 <meta name="robots" content="noindex">
 <meta property="og:site_name" content="Project Calorie Fountain">
 <meta property="og:title" content="Thumbnails added to blog posts">
-<meta property="og:url" content="https://www.caloriefountain.org/posts/new-thumbnail-feature/">
+<meta property="og:url" content="https://www.caloriefountain.org/posts/thumbnails-added-to-blog-posts/">
 <meta property="og:description" content="See this happy idiot? I promised him he could make a cameo on the site, to help me demonstrate a new feature in my back end system: thumbnail images for posts. 
 Thumbnails are nothing new in the blogo">
 <meta property="og:type" content="article">
@@ -39,7 +39,6 @@ Thumbnails are nothing new in the blogo">
 <meta property="article:tag" content="obsidian">
 <meta property="article:tag" content="software">
 <meta property="article:tag" content="syncthing">
-<meta property="article:tag" content="workflow">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -101,19 +100,19 @@ Thumbnails are nothing new in the blogo">
         
         
         
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="/posts/new-thumbnail-feature/" class="u-url">Thumbnails added to blog posts</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="/posts/thumbnails-added-to-blog-posts/" class="u-url">Thumbnails added to blog posts</a></h1>
 
         <div class="metadata">
             <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
                     Jefferson Smith
             </span></p>
             <p class="dateline">
-            <a href="/posts/new-thumbnail-feature/" rel="bookmark">
+            <a href="/posts/thumbnails-added-to-blog-posts/" rel="bookmark">
             <time class="published dt-published" datetime="2023-03-11T09:13:00-06:00" itemprop="datePublished" title="2023-03-11 09:13">2023-03-11 09:13</time></a>
             </p>
                 <p class="commentline">
     
-        <a href="/posts/new-thumbnail-feature/#isso-thread">Comments</a>
+        <a href="/posts/thumbnails-added-to-blog-posts/#isso-thread">Comments</a>
 
 
             
@@ -125,10 +124,10 @@ Thumbnails are nothing new in the blogo">
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <p><img class="float-right blogthumb" src="/posts/images/caveman-01.png"> 
 See this happy idiot? I promised him he could make a cameo on the site, to help me demonstrate a new feature in my back end system: thumbnail images for posts. </p>
-<p>Thumbnails are nothing new in the blogosphere, but I've got an unusual workflow, so in my case, even otherwise common features may sometimes require a bit of extra elbow grease. Case in point: how to get a caveman to appear on a farming website.</p>
+<p>Thumbnails are nothing new in the blogosphere, but I've got an unusual workflow and sometimes, even simple features can require a bit of extra elbow grease. Case in point: how to get a caveman to appear on a farming website.</p>
 <!-- TEASER_END -->
 <hr class="teaserbreak">
-<p>If you read the <a class="bloglink" href="/how-a-blog-post-is-born">previous post on my backend workflow</a>, you'll know that I write everything in Obsidian, which gets synced automatically to all my different computers and devices. This allows me to take my time with posts, developing them over multiple sessions, and yet always have the most recent version at my fingertips, regardless of how I might dart about between computers in the meantime.</p>
+<p>If you read the <a class="bloglink obsidian" href="/posts/how-a-blog-post-is-born">previous post on my backend workflow</a>, you'll know that I write everything in Obsidian, which gets synced automatically to all my different computers and devices. This allows me to take my time with posts, developing them over multiple sessions, and yet always have the most recent version at my fingertips, regardless of how I might dart about between computers in the meantime.</p>
 <p>Up until today, I haven't really had a need to bring images into my Obsidian system, so when I set up the original workflow for Project Calorie Fountain, I neglected to create an image conduit. Oops. Today is just about rectifying that oversight.</p>
 <p>My system generates website posts directly from the Markdown files in my Obsidian network, but <em>only</em> the posts come from there. Everything else — the navigation system, the template system, the layout, the stylesheets — all of that comes from Nikola. The secret sauce for how I connect the two is <em>soft linking</em>. </p>
 <p>Nikola <em>thinks</em> it's working with a regular folder full of post files within its own hierarchy, but in fact, that folder is a soft link into a subfolder of my Obsidian file tree. So any time I update an article on one of my devices, SyncThing makes sure that the update ends up on my desktop, and then the next time I generate the website, it automatically pulls the most up-to-date posts via that soft link.</p>
@@ -143,7 +142,6 @@ See this happy idiot? I promised him he could make a cameo on the site, to help 
             <li><a class="tag p-category" href="/tags/obsidian/" rel="tag">obsidian</a></li>
             <li><a class="tag p-category" href="/tags/software/" rel="tag">software</a></li>
             <li><a class="tag p-category" href="/tags/syncthing/" rel="tag">syncthing</a></li>
-            <li><a class="tag p-category" href="/tags/workflow/" rel="tag">workflow</a></li>
         </ul></nav></aside><section class="comments hidden-print jefficus"><h2>Comments</h2>
         
     
