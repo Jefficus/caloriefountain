@@ -142,6 +142,7 @@ hu">
 <li>water depth</li>
 <li>water conductivity</li>
 <li>light intensity</li>
+<li>power consumption</li>
 </ul>
 <p>Deliverables:</p>
 <ul>
@@ -158,20 +159,6 @@ hu">
 <li>3 days worth of baseline data tracking</li>
 </ul>
 <h3>Sensors Snitchbox</h3>
-<ul>
-<li>[ ] Create a list of which modules I'll need<ul>
-<li>ESP8266 controller, w WiFi for telemetry to hub</li>
-</ul>
-</li>
-<li>[ ] Acquire the modules</li>
-<li>[ ] Design SnitchBox </li>
-<li>[ ] Design SnitchBox case<ul>
-<li>3D printed barcode on top</li>
-<li>see <a href="https://github.com/X-Illuminati/glyphinator">openscad module</a>
-</li>
-</ul>
-</li>
-</ul>
 <p>What are these monitor pucks called? 
 Watching lights, humidity, temperature, waterlevel.
 Sending reports to central collector.
@@ -185,18 +172,8 @@ Words to inspire name:
     watersnitch, snitchInTime,
     snitchbox </p>
 <h3>Data hub</h3>
-<ul>
-<li>[ ] Decide on a suitable computer board<ul>
-<li>are Raspberry Pis still the right choice?</li>
-<li>are they still having supply problems?</li>
-</ul>
-</li>
-<li>[ ] Acquire the chosen board</li>
-<li>[ ] Build the collection server, based on rapanui</li>
-<li>[ ] Plug it in and test it</li>
-</ul>
 <p>What is this box called?
-Snatchbox? Catchbox?
+Snitchbox? Catchbox? Squeaker? Squeakbox?
 Computer board requirements
 - wifi
 - Linux
@@ -211,22 +188,45 @@ Computer board requirements
         - not great reviews on Amazon
 - or maybe just run a lightweight api on my desktop</p>
 <h3>Lights</h3>
+<h3>Containers</h3>
+<h2>Tasks</h2>
+<ul>
+<li>[ ] Create a list of which modules I'll need<ul>
+<li>ESP8266 controller, w WiFi for telemetry to hub</li>
+</ul>
+</li>
+<li>[ ] Acquire the modules</li>
+<li>[ ] Design SnitchBox </li>
+<li>[ ] Design SnitchBox case<ul>
+<li>3D printed barcode on top</li>
+<li>see <a href="https://github.com/X-Illuminati/glyphinator">openscad module</a>
+</li>
+</ul>
+</li>
+<li>[ ] Decide on a suitable computer board<ul>
+<li>are Raspberry Pis still the right choice?</li>
+<li>are they still having supply problems?</li>
+</ul>
+</li>
+<li>[ ] Acquire the chosen board</li>
+<li>[ ] Build the collection server, based on rapanui</li>
+<li>[ ] Plug it in and test it</li>
+<li>[ ] Find single-plant Kratky container ✔<ul>
+<li>tall enough for a 12" root, + 2" seedling pod </li>
+<li>4"x4" base, as per seed spacing specs</li>
+<li>nothing appropriate at garden center</li>
+</ul>
+</li>
+</ul>
+<h3>Log</h3>
 <ul>
 <li>[x] Acquire a grow light sufficient for a 4 sqft grow tank<ul>
 <li><del><a href="https://www.amazon.ca/dp/B07MH7SD1B">Roleadro 75W LED grow light</a></del></li>
 <li><a href="https://www.amazon.ca/dp/B08G7Y1STZ">FECiDA 1000W Dimmable LED system</a></li>
 </ul>
 </li>
-</ul>
-<h3>Containers</h3>
-<ul>
-<li>[/] Find single-plant Kratky container ✔<ul>
-<li>tall enough for a 12" root, + 2" seedling pod </li>
-<li>4"x4" base, as per seed spacing specs</li>
-<li>nothing appropriate at garden center</li>
-</ul>
-</li>
-<li>[/] Design 3D printable Kratky container ✔<ul>
+<li>[-] Design 3D printable Kratky container<ul>
+<li>after preliminary experiments, this doesn't seem practical</li>
 <li>[x] tested PLA - osmotic leaking 👎</li>
 <li>[x] tested PETG - 2 weeks no loss 👍<ul>
 <li>but 0.2mm layers + 5 perims too slow</li>
