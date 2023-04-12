@@ -4,11 +4,21 @@ Building locally
 
 Validation
     - linkchecker --no-status --no-warnings http://localhost:8000
+    - linkchecker --no-status --no-warnings https://www.caloriefountain.org
 
 Deploy
     - diff conf-dev.py conf.py   # be sure no important diffs
-    - nikola build -a; nikola github_deploy
+    - \rm -rf cache 
+    - \rm -rf output
+    - nikola --conf=conf.py clean -a
+    - nikola --conf=conf.py build -a
+    - nikola --conf=conf.py check -l
+    - nikola github_deploy
 
     # Note: that 'build -a' ensures that everything gets built - ignores caching
     # Maybe not required for pushing new posts but definitely required
     # when updating templates and other site structures/code
+
+Local Comment Server
+    - cd CalorieFountain/isso
+    - ./isso -c isso-dev.cfg
