@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Power to the plant life | Project Calorie Fountain</title>
+<title>Chicken soup for the little snitches | Project Calorie Fountain</title>
 <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/rst.css" rel="stylesheet" type="text/css">
@@ -15,7 +15,7 @@
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="/rss.xml">
-<link rel="canonical" href="https://www.caloriefountain.org/posts/power-to-the-plant-life/">
+<link rel="canonical" href="https://www.caloriefountain.org/posts/chicken-soup-for-the-little-snitches/">
 <link rel="icon" href="/favicon.ico" sizes="16x16">
 <link rel="icon" href="/favicon.ico" sizes="24x24">
 <link rel="icon" href="/favicon.ico" sizes="32x32">
@@ -27,18 +27,17 @@
 <link rel="icon" href="/favicon.ico" sizes="192x192">
 <link rel="icon" href="/favicon.ico" sizes="256x265">
 <!--[if lt IE 9]><script src="/assets/js/html5.js"></script><![endif]--><script type="text/javascript" src="/assets/js/jquery-3.6.3.min.js"></script><script type="text/javascript" src="/assets/js/sorttable.js"></script><meta name="author" content="Jefferson Smith">
-<link rel="prev" href="/posts/targetlabmom/" title='Target "Lab Mom"' type="text/html">
-<link rel="next" href="/posts/chicken-soup-for-the-little-snitches/" title="Chicken soup for the little snitches" type="text/html">
+<link rel="prev" href="/posts/power-to-the-plant-life/" title="Power to the plant life" type="text/html">
 <meta property="og:site_name" content="Project Calorie Fountain">
-<meta property="og:title" content="Power to the plant life">
-<meta property="og:url" content="https://www.caloriefountain.org/posts/power-to-the-plant-life/">
-<meta property="og:description" content="When spec'ing out the tank and lab monitoring equipment I would need, I completely overlooked a fairly important metric: power consumption for the lights. Yes, I've estimated the power requirements, b">
+<meta property="og:title" content="Chicken soup for the little snitches">
+<meta property="og:url" content="https://www.caloriefountain.org/posts/chicken-soup-for-the-little-snitches/">
+<meta property="og:description" content="For the last few days, I've been working on the software that will manage the snitchboxes, but not all snitches will be the same, so I'm taking some time to build a flexible foundation. And one of my ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2023-04-12T13:23:00-06:00">
+<meta property="article:published_time" content="2023-04-15T17:51:00-06:00">
 <meta property="article:tag" content="equipment">
-<meta property="article:tag" content="power">
-<meta property="article:tag" content="sensors">
-<meta property="article:tag" content="target-kratky-tank">
+<meta property="article:tag" content="programming">
+<meta property="article:tag" content="software">
+<meta property="article:tag" content="target-snitchbox-kratky">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -100,19 +99,19 @@
         
         
         
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="/posts/power-to-the-plant-life/" class="u-url">Power to the plant life</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="/posts/chicken-soup-for-the-little-snitches/" class="u-url">Chicken soup for the little snitches</a></h1>
 
         <div class="metadata">
             <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
                     Jefferson Smith
             </span></p>
             <p class="dateline">
-            <a href="/posts/power-to-the-plant-life/" rel="bookmark">
-            <time class="published dt-published" datetime="2023-04-12T13:23:00-06:00" itemprop="datePublished" title="2023-04-12 13:23">2023-04-12 13:23</time></a>
+            <a href="/posts/chicken-soup-for-the-little-snitches/" rel="bookmark">
+            <time class="published dt-published" datetime="2023-04-15T17:51:00-06:00" itemprop="datePublished" title="2023-04-15 17:51">2023-04-15 17:51</time></a>
             </p>
                 <p class="commentline">
     
-        <a href="/posts/power-to-the-plant-life/#isso-thread">Comments</a>
+        <a href="/posts/chicken-soup-for-the-little-snitches/#isso-thread">Comments</a>
 
 
             
@@ -122,34 +121,28 @@
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <p><img class="float-right blogthumb" src="/posts/images/flower-light-meter.jpg"> When spec'ing out the tank and lab monitoring equipment I would need, I completely overlooked a fairly important metric: power consumption for the lights. Yes, I've <em>estimated</em> the power requirements, based on the manufacturer's performance claims, but I haven't actually <em>measured</em> them. So what's the best way to do that?</p>
+    <p><img class="float-right blogthumb" src="/posts/images/mom-soup.jpg">For the last few days, I've been working on the software that will manage the snitchboxes, but not all snitches will be the same, so I'm taking some time to build a flexible foundation. And one of my biggest concerns while doing that? How to tweak and adjust them once they've been deployed, <em>without</em> having to drag them all back to my workbench to do it.</p>
 <!-- TEASER_END -->
 <hr class="teaserbreak">
-<p>I could sample the power draw with an ammeter coil around the power cable for the LED light fixture, but then I'd have to estimate the fluxuation over time as the light warms up, and I'd have to estimate how long the lights were on, and the temperature of the room... Oy!</p>
-<p>Fortunately, there's a fairly simple device I can use that will monitor the power used over time without really getting in the way or requiring regular care and mainenance.
-I can just plug the lights into a pass-thru power monitor (like <a href="https://www.amazon.ca/gp/product/B0777H8MS8">this one</a>) and it will record the actual power consumed over time for as long as I leave it connected.</p>
-<p>This particular one doesn't have any sort of data recording or broadcasting feature, so I'll have to enter the readings manually, but I'm already doing that for a few other metrics, so it's not really a problem.</p>
-<h2>Adaptive supplemental lighting</h2>
-<p>It also occurs to me that I should be able to devise a lighting system that takes into account the measured lux levels and adjusts the powered lights until the required lux level is reached. This would allow me to take advantage of any ambient window lighting and reduce the power consumed by artificial lighting. </p>
-<p>But this is an advanced feature and not something I anticipate needing soon.</p>
+<p>Each different growing system has different parameters to monitor so will require a different constellation of sensors. Some measurements, like light brightness, air temperature/humidity, and pH balance, will be common to all setups, but some (like Kratky tanks) will have a water depth or EC to keep an eye on, while a drip tower might have a trickle rate, and other systems might have circulatory pumps, aeration pumps, vapor densities, etc. If each kind of snitchbox will have a different set of sensors, with different operational ranges, the firmware will need a flexible way for me to describe the sensors and configure their defaults. But what if those parameters change during the course of an experiment? It's one thing to set sensible parameters when I've got the box on the bench at build time, but what about when those values need to change later, once the box has been deployed?</p>
+<p>In order to facilitate unsupervised data collection, I'm already building the snitchboxes around the ESP8266, so the box can send data regularly to the LabMom for collection over its built-in WiFi chip. But that same chip also allows the snitchbox to host a tiny web server, so I'm going to use that to display a simple device configuration panel. Then, no matter where the snitchbox is physically located, I'll be able to alter its configuration by visiting the config screen, changing its id value, the frequency with which it reports to mom, the expected min/max sensor values, etc.</p>
+<p>Another consequence of this architecture is that if I ever have a lab with dozens of these devices scattered about, I can fix bugs or deploy new features on all the devices at once, simply by posting new firmware to the LabMom. As each device calls mom to report, it will see the new version, download it, and update itself. Just like getting chicken soup from mom when you're not feeling well.</p>
+<p>The code for managing the configuration screen is almost finished. Once I have that done, and get the chicken soup system implemented, the snitchbox foundation will be complete and I'll be ready to start building the first one — which will be the one for Kratky tanks.</p>
     </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="/tags/equipment/" rel="tag">equipment</a></li>
-            <li><a class="tag p-category" href="/tags/power/" rel="tag">power</a></li>
-            <li><a class="tag p-category" href="/tags/sensors/" rel="tag">sensors</a></li>
-            <li><a class="tag p-category" href="/tags/target-kratky-tank/" rel="tag">target-kratky-tank</a></li>
+            <li><a class="tag p-category" href="/tags/programming/" rel="tag">programming</a></li>
+            <li><a class="tag p-category" href="/tags/software/" rel="tag">software</a></li>
+            <li><a class="tag p-category" href="/tags/target-snitchbox-kratky/" rel="tag">target-snitchbox-kratky</a></li>
         </ul>
 <ul class="pager hidden-print">
 <li class="previous">
-                <a href="/posts/targetlabmom/" rel="prev" title='Target "Lab Mom"'>Previous post</a>
-            </li>
-            <li class="next">
-                <a href="/posts/chicken-soup-for-the-little-snitches/" rel="next" title="Chicken soup for the little snitches">Next post</a>
+                <a href="/posts/power-to-the-plant-life/" rel="prev" title="Power to the plant life">Previous post</a>
             </li>
         </ul></nav></aside><section class="comments hidden-print jefficus"><h2>Comments</h2>
         
     
-        <div data-title="Power to the plant life" id="isso-thread"></div>
+        <div data-title="Chicken soup for the little snitches" id="isso-thread"></div>
         <script src="https://Jefficus.pythonanywhere.com/js/embed.min.js" data-isso="https://Jefficus.pythonanywhere.com/" data-isso-lang="en"></script></section></article><!--End of body content--><footer id="footer">
             Contents © 2023         <a href="mailto:jeff@smithicus.com">Jefferson Smith</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             

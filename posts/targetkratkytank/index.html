@@ -36,10 +36,7 @@
 
 
 Purpose: to be used for crop verification experiments.
-Sensors:
-
-temperature
-hu">
+The tank infrastructure ">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2023-03-03T18:40:00-06:00">
 <meta property="article:tag" content="equipment">
@@ -135,14 +132,14 @@ hu">
 <!--TEASER_END -->
 
 <p>Purpose: to be used for crop verification experiments.</p>
-<p>Sensors:</p>
+<p>The tank infrastructure needs to be able to measure:</p>
 <ul>
-<li>temperature</li>
-<li>humidity</li>
-<li>water depth</li>
-<li>water conductivity</li>
-<li>light intensity</li>
-<li>power consumption</li>
+<li>room temperature</li>
+<li>room humidity</li>
+<li>tank water depth</li>
+<li>tank water conductivity</li>
+<li>surface light intensity</li>
+<li>light power consumption</li>
 </ul>
 <p>Deliverables:</p>
 <ul>
@@ -158,62 +155,24 @@ hu">
 </li>
 <li>3 days worth of baseline data tracking</li>
 </ul>
-<h3>Sensors Snitchbox</h3>
-<p>What are these monitor pucks called? 
-Watching lights, humidity, temperature, waterlevel.
-Sending reports to central collector.
-Words to inspire name: 
-    snitch, gossip, weatherwise,
-    probe-oscis, telemetry,
-    scarecrow, voyeur, chatterbox,
-    kratky, grow, seedling, germinate,
-    fountain, calorie
-    snitchcraft, weathersnitch, soilsnitch
-    watersnitch, snitchInTime,
-    snitchbox </p>
-<h3>Data hub</h3>
-<p>What is this box called?
-Snitchbox? Catchbox? Squeaker? Squeakbox?
-Computer board requirements
-- wifi
-- Linux
-- sd card
-- no special compute powers
-    - pi 4B 2GB (runs warm)
-    - pi Zero W
-    - pi 3B or 3B+ (runs cool)
-    - orange pi?
-    - Asus tinkerboard series?
-    - Libre Computer Board AML-S905X-CC (Le Potato) ?
-        - not great reviews on Amazon
-- or maybe just run a lightweight api on my desktop</p>
-<h3>Lights</h3>
+<h3>Automated data collection</h3>
+<p>The Kratky tank can't be marked complete until I've got my telemetry monitor figured out. For details, see <a class="bloglink obsidian" href="/posts/targetsnitchboxkratky">Targetsnitchboxkratky</a>.</p>
+<h3>Manual data collection</h3>
+<p>Some measurements can't be easily automated but <em>can</em> be taken manually, so I'll also need a tool to integrate that efficiently with the automated data. For details, see <a class="bloglink obsidian" href="/posts/targetsnitchapp">Targetsnitchapp</a>.</p>
+<h3>Data collection hub</h3>
+<p>Regardless of how the data is collected, it needs to be stored in a central repository that can also provide snapshot and summary views. For details, see <a class="bloglink obsidian" href="/posts/targetlabmom">Targetlabmom</a>.</p>
 <h3>Containers</h3>
-<h2>Tasks</h2>
+<h3>Lights</h3>
 <ul>
-<li>[ ] Create a list of which modules I'll need<ul>
-<li>ESP8266 controller, w WiFi for telemetry to hub</li>
+<li>[ ] Find a small multi-plant Kratky container ✔<ul>
+<li>no more than 4 sqft</li>
+<li>min 14” tall, with lid</li>
+<li>opaque walls</li>
 </ul>
 </li>
-<li>[ ] Acquire the modules</li>
-<li>[ ] Design SnitchBox </li>
-<li>[ ] Design SnitchBox case<ul>
-<li>3D printed barcode on top</li>
-<li>see <a href="https://github.com/X-Illuminati/glyphinator">openscad module</a>
-</li>
-</ul>
-</li>
-<li>[ ] Decide on a suitable computer board<ul>
-<li>are Raspberry Pis still the right choice?</li>
-<li>are they still having supply problems?</li>
-</ul>
-</li>
-<li>[ ] Acquire the chosen board</li>
-<li>[ ] Build the collection server, based on rapanui</li>
-<li>[ ] Plug it in and test it</li>
 <li>[ ] Find single-plant Kratky container ✔<ul>
 <li>tall enough for a 12" root, + 2" seedling pod </li>
-<li>4"x4" base, as per seed spacing specs</li>
+<li>appx 4"x4" base, as per seed spacing specs</li>
 <li>nothing appropriate at garden center</li>
 </ul>
 </li>

@@ -141,10 +141,10 @@ If I want any chance of developing and refining a ">
 <h3>Logical features</h3>
 <p>A compact device capable of automatically measuring the state of a Kratky grow tank and reporting those measurements over WiFi to the LabMom server, using the Snitchbox API. It must be able to capture readings every 15 minutes and report:</p>
 <ul>
-<li>air temperature</li>
-<li>relative humidity</li>
-<li>illumination</li>
-<li>water depth</li>
+<li>air temperature (DHT22)</li>
+<li>relative humidity (DHT22)</li>
+<li>illumination (TLS2591)</li>
+<li>water depth (HC-SR04)</li>
 </ul>
 <p>Each snitchbox should know its own ID number and report that with each sample reported.</p>
 <p>Timestamps should <strong>not</strong> be included in the telemetry. Since small devices like this are notorious for clock drift, it will be more robust and consistent for the server to apply a timestamp to each incoming report.</p>
@@ -177,7 +177,36 @@ If I want any chance of developing and refining a ">
 <p>The Kratky Snitchbox will <strong>not</strong> collect: water temperature, pH, EC, or TDS values.</p>
 <p>Doing so would be costly and require significant maintenance. It will be better to capture these values manually, with a single, portable tool, and limit maintenance requirements to that single device.</p>
 <p>It also will <strong>not</strong> capture air temperature or relative humidity inside the tank. At present, I see these are largely redundant and of little value.</p>
-    </div>
+<h2>Ruminations</h2>
+<p>What are these monitor pucks called? 
+Watching lights, humidity, temperature, waterlevel.
+Sending reports to central collector.
+Words to inspire name: 
+    snitch, gossip, weatherwise,
+    probe-oscis, telemetry,
+    scarecrow, voyeur, chatterbox,
+    kratky, grow, seedling, germinate,
+    fountain, calorie
+    snitchcraft, weathersnitch, soilsnitch
+    watersnitch, snitchInTime,
+    snitchbox </p>
+<h2>Tasks</h2>
+<ul>
+<li>[ ] Design SnitchBox </li>
+<li>[ ] Design SnitchBox case<ul>
+<li>3D printed barcode on top</li>
+<li>see <a href="https://github.com/X-Illuminati/glyphinator">openscad module</a>
+</li>
+</ul>
+</li>
+</ul>
+<h3>Log</h3>
+<ul>
+<li>2023-04-12: started work on base code, with OTA updates and a web config interface</li>
+<li>[x] Create a list of nec modules ✅ 2023-04-10</li>
+<li>[x] Acquire the modules ✅ 2023-04-10</li>
+</ul>
+</div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
 <li><a class="tag p-category" href="/tags/automation/" rel="tag">automation</a></li>
             <li><a class="tag p-category" href="/tags/equipment/" rel="tag">equipment</a></li>

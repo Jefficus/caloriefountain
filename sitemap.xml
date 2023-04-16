@@ -7,614 +7,610 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.caloriefountain.org/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/2023/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/about-me/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/archive.html</loc>
-  <lastmod>2023-04-12T22:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.caloriefountain.org/posts/automateddatacollection/</loc>
-  <lastmod>2023-04-06T17:15:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/caloric-heroes-rise-from-data-not-guessing/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/caloricpowertable-v1/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/cave-zero-the-reference-scenario/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.caloriefountain.org/posts/chicken-soup-for-the-little-snitches/</loc>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/computing-optimal-crop-mix/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/computingnutrientmix/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.caloriefountain.org/posts/configuring-my-minions/</loc>
+  <lastmod>2023-04-15T23:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/datacollectionwrangling/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/find-a-dataset-of-food-nutrition/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/go-wide-snag/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/growing-system-for-root-crops/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/growlightregret/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/how-a-blog-post-is-born/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/its-brain-pickin-time/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/keeping-track-of-test-conditions/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/lighting-the-fountain/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/manualdatacapture/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/menu-diversity/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/nutrientmixtureapps/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/power-to-the-plant-life/</loc>
-  <lastmod>2023-04-12T22:52:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/research-wrangling/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/sampletaggingsystem/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/sensorcalibration/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/setting-expectations/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/singleshotcontainers/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetbrainpick/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetcapitalcosts/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetcheapernutrients/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetcheaperpower/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetkratkyhow/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetkratkytank/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetlabmom/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.caloriefountain.org/posts/targetlabmother/</loc>
-  <lastmod>2023-04-06T16:43:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetminmax/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetoperatingcosts/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetreducelumenloss/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetsalsifyprove/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetsanitycheck/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetseaweedhow/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetseaweedprove/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetsnitchapp/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/targetsnitchboxkratky/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/the-seaweed-conundrum/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/theres-power-in-names/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.caloriefountain.org/posts/thumbnails-added-to-blog-posts/</loc>
-  <lastmod>2023-04-06T17:15:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/waterrequirements/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/welcome-plans/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/what-is-caloric-power/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/posts/why-so-static/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/priority/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/priority/labnotes/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/priority/results/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/priority/targets/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/3dprint/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/automation/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/awareness/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/balanced-mode/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/breakup/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/calculations/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/calories/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/capital/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/collaboration/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/completed/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/conditions/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/containers/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/costs/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/crisis-mode/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/crops/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/data/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/datasets/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/definitions/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/efficiency/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/equipment/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/esthetics/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/expenses/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/expertise/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/features/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/flavor/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/food/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/go-wide/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/governing-principles/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/grow-lights/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/kratky/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/let-data-reign/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/lighting/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/meta/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/methodology/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/methods/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/metrics/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/microprojects/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/nikola/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/nutrients/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/nutrition/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/obsidian/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/operations/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/organization/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/partners/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/power/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.caloriefountain.org/tags/programming/</loc>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/projects/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/psychology/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/resources/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/salsify/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/scenarios/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/seaweed/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/sensors/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/shape/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/sharing/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/shelving/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/size/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/smartphones/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/snitchbox/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/software/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/space/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/supplement-mode/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/supplies/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/syncthing/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-brain-pick/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-brainpick/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-capital-costs/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-cheaper-nutrients/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-cheaper-power/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-kratky-how/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-kratky-tank/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-lab-mom/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.caloriefountain.org/tags/target-lab-mother/</loc>
-  <lastmod>2023-04-06T16:43:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-minmax/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-operating-costs/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-reduce-lumen-loss/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-salsify-prove/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-sanity-check/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-seaweed-how/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-seaweed-prove/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-snitch-app/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-snitchapp/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/target-snitchbox-kratky/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/targets/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/tasks/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/telemetry/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/thismonth/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/thisweek/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/today/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/tools/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/towers/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/tracking/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/usability/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/verification-needed/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/water/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/website/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.caloriefountain.org/tags/yields/</loc>
-  <lastmod>2023-04-12T22:50:00Z</lastmod>
+  <lastmod>2023-04-16T01:08:00Z</lastmod>
  </url>
 </urlset>
