@@ -28,6 +28,7 @@
 <link rel="icon" href="/favicon.ico" sizes="256x265">
 <!--[if lt IE 9]><script src="/assets/js/html5.js"></script><![endif]--><script type="text/javascript" src="/assets/js/jquery-3.6.3.min.js"></script><script type="text/javascript" src="/assets/js/sorttable.js"></script><meta name="author" content="Jefferson Smith">
 <link rel="prev" href="/posts/power-to-the-plant-life/" title="Power to the plant life" type="text/html">
+<link rel="next" href="/posts/the-universe-is-not-as-funny-as-it-thinks/" title="The universe is not as funny as it thinks" type="text/html">
 <meta property="og:site_name" content="Project Calorie Fountain">
 <meta property="og:title" content="Chicken soup for the little snitches">
 <meta property="og:url" content="https://www.caloriefountain.org/posts/chicken-soup-for-the-little-snitches/">
@@ -38,6 +39,7 @@
 <meta property="article:tag" content="programming">
 <meta property="article:tag" content="software">
 <meta property="article:tag" content="target-snitchbox-kratky">
+<meta property="article:tag" content="telemetry">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -125,7 +127,7 @@
 <!-- TEASER_END -->
 <hr class="teaserbreak">
 <p>Each different growing system has different parameters to monitor so will require a different constellation of sensors. Some measurements, like light brightness, air temperature/humidity, and pH balance, will be common to all setups, but some (like Kratky tanks) will have a water depth or EC to keep an eye on, while a drip tower might have a trickle rate, and other systems might have circulatory pumps, aeration pumps, vapor densities, etc. If each kind of snitchbox will have a different set of sensors, with different operational ranges, the firmware will need a flexible way for me to describe the sensors and configure their defaults. But what if those parameters change during the course of an experiment? It's one thing to set sensible parameters when I've got the box on the bench at build time, but what about when those values need to change later, once the box has been deployed?</p>
-<p>In order to facilitate unsupervised data collection, I'm already building the snitchboxes around the ESP8266, so the box can send data regularly to the LabMom for collection over its built-in WiFi chip. But that same chip also allows the snitchbox to host a tiny web server, so I'm going to use that to display a simple device configuration panel. Then, no matter where the snitchbox is physically located, I'll be able to alter its configuration by visiting the config screen, changing its id value, the frequency with which it reports to mom, the expected min/max sensor values, etc.</p>
+<p>In order to facilitate unsupervised data collection, I'm already building the snitchboxes around the ESP8266, so the boxes can send data regularly to the LabMom for collection over the built-in WiFi chip. But that same chip also allows the snitchbox to host a tiny web server, so I'm going to use that to display a simple device configuration panel. Then, no matter where the snitchbox is physically located, I'll be able to alter its configuration by visiting its config screen in a web browser.</p>
 <p>Another consequence of this architecture is that if I ever have a lab with dozens of these devices scattered about, I can fix bugs or deploy new features on all the devices at once, simply by posting new firmware to the LabMom. As each device calls mom to report, it will see the new version, download it, and update itself. Just like getting chicken soup from mom when you're not feeling well.</p>
 <p>The code for managing the configuration screen is almost finished. Once I have that done, and get the chicken soup system implemented, the snitchbox foundation will be complete and I'll be ready to start building the first one — which will be the one for Kratky tanks.</p>
     </div>
@@ -134,10 +136,14 @@
             <li><a class="tag p-category" href="/tags/programming/" rel="tag">programming</a></li>
             <li><a class="tag p-category" href="/tags/software/" rel="tag">software</a></li>
             <li><a class="tag p-category" href="/tags/target-snitchbox-kratky/" rel="tag">target-snitchbox-kratky</a></li>
+            <li><a class="tag p-category" href="/tags/telemetry/" rel="tag">telemetry</a></li>
         </ul>
 <ul class="pager hidden-print">
 <li class="previous">
                 <a href="/posts/power-to-the-plant-life/" rel="prev" title="Power to the plant life">Previous post</a>
+            </li>
+            <li class="next">
+                <a href="/posts/the-universe-is-not-as-funny-as-it-thinks/" rel="next" title="The universe is not as funny as it thinks">Next post</a>
             </li>
         </ul></nav></aside><section class="comments hidden-print jefficus"><h2>Comments</h2>
         

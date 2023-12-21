@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Target "Kratky Tank" | Project Calorie Fountain</title>
+<title>The universe is not as funny as it thinks | Project Calorie Fountain</title>
 <link href="/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
 <link href="/assets/css/rst.css" rel="stylesheet" type="text/css">
@@ -15,7 +15,7 @@
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="/rss.xml">
-<link rel="canonical" href="https://www.caloriefountain.org/posts/targetkratkytank/">
+<link rel="canonical" href="https://www.caloriefountain.org/posts/the-universe-is-not-as-funny-as-it-thinks/">
 <link rel="icon" href="/favicon.ico" sizes="16x16">
 <link rel="icon" href="/favicon.ico" sizes="24x24">
 <link rel="icon" href="/favicon.ico" sizes="32x32">
@@ -27,22 +27,16 @@
 <link rel="icon" href="/favicon.ico" sizes="192x192">
 <link rel="icon" href="/favicon.ico" sizes="256x265">
 <!--[if lt IE 9]><script src="/assets/js/html5.js"></script><![endif]--><script type="text/javascript" src="/assets/js/jquery-3.6.3.min.js"></script><script type="text/javascript" src="/assets/js/sorttable.js"></script><meta name="author" content="Jefferson Smith">
-<link rel="prev" href="/posts/research-wrangling/" title="Research wrangling" type="text/html">
-<link rel="next" href="/posts/growing-system-for-root-crops/" title="Growing system for root crops" type="text/html">
+<link rel="prev" href="/posts/chicken-soup-for-the-little-snitches/" title="Chicken soup for the little snitches" type="text/html">
 <meta property="og:site_name" content="Project Calorie Fountain">
-<meta property="og:title" content='Target "Kratky Tank"'>
-<meta property="og:url" content="https://www.caloriefountain.org/posts/targetkratkytank/">
-<meta property="og:description" content="GOAL: Design and build a Kratky-style research tank with approx 4 sqft of crop space, and environment monitoring gear.
-
-
-Purpose: to be used for crop verification experiments.
-The tank infrastructure ">
+<meta property="og:title" content="The universe is not as funny as it thinks">
+<meta property="og:url" content="https://www.caloriefountain.org/posts/the-universe-is-not-as-funny-as-it-thinks/">
+<meta property="og:description" content="So I thought I was almost finished with the base software for the snitchboxes, but the universe heard me say that and chuckled to itself, knowing full well about the surprise it had laying in wait for">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2023-03-03T18:40:00-06:00">
-<meta property="article:tag" content="equipment">
-<meta property="article:tag" content="kratky">
-<meta property="article:tag" content="target-kratky-tank">
-<meta property="article:tag" content="thismonth">
+<meta property="article:published_time" content="2023-04-24T08:14:00-06:00">
+<meta property="article:tag" content="programming">
+<meta property="article:tag" content="software">
+<meta property="article:tag" content="target-snitchbox-kratky">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
@@ -104,19 +98,19 @@ The tank infrastructure ">
         
         
         
-<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="/posts/targetkratkytank/" class="u-url">Target "Kratky Tank"</a></h1>
+<article class="post-text h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="/posts/the-universe-is-not-as-funny-as-it-thinks/" class="u-url">The universe is not as funny as it thinks</a></h1>
 
         <div class="metadata">
             <p class="byline author vcard p-author h-card"><span class="byline-name fn p-name" itemprop="author">
                     Jefferson Smith
             </span></p>
             <p class="dateline">
-            <a href="/posts/targetkratkytank/" rel="bookmark">
-            <time class="published dt-published" datetime="2023-03-03T18:40:00-06:00" itemprop="datePublished" title="2023-03-03 18:40">2023-03-03 18:40</time></a>
+            <a href="/posts/the-universe-is-not-as-funny-as-it-thinks/" rel="bookmark">
+            <time class="published dt-published" datetime="2023-04-24T08:14:00-06:00" itemprop="datePublished" title="2023-04-24 08:14">2023-04-24 08:14</time></a>
             </p>
                 <p class="commentline">
     
-        <a href="/posts/targetkratkytank/#isso-thread">Comments</a>
+        <a href="/posts/the-universe-is-not-as-funny-as-it-thinks/#isso-thread">Comments</a>
 
 
             
@@ -126,120 +120,29 @@ The tank infrastructure ">
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <p>GOAL: Design and build a Kratky-style research tank with approx 4 sqft of crop space, and environment monitoring gear.</p>
-<!--TEASER_END -->
-
-<p>Purpose: to be used for crop verification experiments.</p>
-<p>The tank infrastructure needs to be able to measure:</p>
-<ul>
-<li>room temperature</li>
-<li>room humidity</li>
-<li>tank water depth</li>
-<li>tank water conductivity</li>
-<li>surface light intensity</li>
-<li>light power consumption</li>
-</ul>
-<p>Deliverables:</p>
-<ul>
-<li>tank, opaque</li>
-<li>lid, opaque</li>
-<li>internal root crop support rack</li>
-<li>LED grow light</li>
-<li>sensor pack, operational</li>
-<li>controller module, operational<ul>
-<li>receives/logs sensor data fm multiple tanks </li>
-<li>controls/tracks lights on multiple tanks</li>
-</ul>
-</li>
-<li>3 days worth of baseline data tracking</li>
-</ul>
-<h3>Automated data collection</h3>
-<p>The Kratky tank can't be marked complete until I've got my telemetry monitor figured out. For details, see <a class="bloglink obsidian" href="/posts/targetsnitchboxkratky">Targetsnitchboxkratky</a>.</p>
-<h3>Manual data collection</h3>
-<p>Some measurements can't be easily automated but <em>can</em> be taken manually, so I'll also need a tool to integrate that efficiently with the automated data. For details, see <a class="bloglink obsidian" href="/posts/targetsnitchapp">Targetsnitchapp</a>.</p>
-<h3>Data collection hub</h3>
-<p>Regardless of how the data is collected, it needs to be stored in a central repository that can also provide snapshot and summary views. For details, see <a class="bloglink obsidian" href="/posts/targetlabmom">Targetlabmom</a>.</p>
-<h3>Containers</h3>
-<h3>Lights</h3>
-<h2>Tasks</h2>
-<ul>
-<li>[ ] print/make cylinder isolation insert ✔<ul>
-<li>appx 4" diam</li>
-<li>vase mode?</li>
-<li>water flow arches at bottom</li>
-<li>radial fins </li>
-<li>to isolate root systems</li>
-<li>also keep center clear for depth readings</li>
-</ul>
-</li>
-</ul>
-<h3>Log</h3>
-<ul>
-<li>[-] create pod-friendly lid<ul>
-<li>designed</li>
-<li>need to adjust fit tolerance</li>
-</ul>
-</li>
-<li>[x] test PETG 0.3mm + 3 perims waterproof<ul>
-<li>printed and undergoing leak test</li>
-</ul>
-</li>
-<li>[x] test PETG 0.3mm + 2 perims waterproof<ul>
-<li>printed and undergoing leak test</li>
-</ul>
-</li>
-<li>[-] test jointed construction waterproof</li>
-<li>[-] identify waterproof coating<ul>
-<li>wax and epoxy both seem popular</li>
-<li>hopefully won't need this</li>
-</ul>
-</li>
-<li>[-] design stabilizer base</li>
-<li>[x] Find a small multi-plant Kratky container ✔<ul>
-<li>no more than 4 sqft</li>
-<li>min 14” tall, with lid</li>
-<li>opaque walls</li>
-</ul>
-</li>
-<li>[-] Find single-plant Kratky container ✔<ul>
-<li>tall enough for a 12" root, + 2" seedling pod </li>
-<li>appx 4"x4" base, as per seed spacing specs</li>
-<li>nothing appropriate at garden center</li>
-</ul>
-</li>
-<li>[x] Acquire a grow light sufficient for a 4 sqft grow tank<ul>
-<li><del><a href="https://www.amazon.ca/dp/B07MH7SD1B">Roleadro 75W LED grow light</a></del></li>
-<li><a href="https://www.amazon.ca/dp/B08G7Y1STZ">FECiDA 1000W Dimmable LED system</a></li>
-</ul>
-</li>
-<li>[-] Design 3D printable Kratky container<ul>
-<li>after preliminary experiments, this doesn't seem practical</li>
-<li>[x] tested PLA - osmotic leaking 👎</li>
-<li>[x] tested PETG - 2 weeks no loss 👍<ul>
-<li>but 0.2mm layers + 5 perims too slow</li>
-<li>14" height too tall for printer</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</div>
+    <p><img class="float-right blogthumb" src="/posts/images/universe-chuckles.jpg"> 
+So I <em>thought</em> I was almost finished with the base software for the snitchboxes, but the universe heard me say that and chuckled to itself, knowing full well about the surprise it had laying in wait for me on the very next page.</p>
+<!-- TEASER_END -->
+<hr class="teaserbreak">
+<p>I don't want to turn this into a programming lecture, so I'll just say enough about the problem that other Arduino developers will understand what I'm talking about: Strings are evil.</p>
+<p>But for the rest of you, what it boils down to is that a long-standing and well known problem with the Arduino coding system rose up to bite me right at the finish line. It then took me the better part of a week to figure out an alternate strategy. (It should have been done in just a day or two, but I had family visiting and didn't want them to spend <em>too</em> much of their vacation just sitting around waiting for me. :-)</p>
+<p>Anyway, I eventually slew the Arduino dragon, and now I have a very solid foundation that I can use for designing telemetry-style device projects. Once I've proven the technology by using it to build some snitchboxes, I'll probably post the foundation code to GitHub as its own project, so other developers can use it too. (And when I do, I'll try to remember to come back and put a link to it here.)</p>
+<p>While that battle was playing out, I also received the last parts shipment I needed, so I'm now completely ready to start putting it together.</p>
+<p>In fact, I think I'll go work on it now.</p>
+    </div>
     <aside class="postpromonav"><nav><ul itemprop="keywords" class="tags">
-<li><a class="tag p-category" href="/tags/equipment/" rel="tag">equipment</a></li>
-            <li><a class="tag p-category" href="/tags/kratky/" rel="tag">kratky</a></li>
-            <li><a class="tag p-category" href="/tags/target-kratky-tank/" rel="tag">target-kratky-tank</a></li>
+<li><a class="tag p-category" href="/tags/programming/" rel="tag">programming</a></li>
+            <li><a class="tag p-category" href="/tags/software/" rel="tag">software</a></li>
+            <li><a class="tag p-category" href="/tags/target-snitchbox-kratky/" rel="tag">target-snitchbox-kratky</a></li>
         </ul>
 <ul class="pager hidden-print">
 <li class="previous">
-                <a href="/posts/research-wrangling/" rel="prev" title="Research wrangling">Previous post</a>
-            </li>
-            <li class="next">
-                <a href="/posts/growing-system-for-root-crops/" rel="next" title="Growing system for root crops">Next post</a>
+                <a href="/posts/chicken-soup-for-the-little-snitches/" rel="prev" title="Chicken soup for the little snitches">Previous post</a>
             </li>
         </ul></nav></aside><section class="comments hidden-print jefficus"><h2>Comments</h2>
         
     
-        <div data-title='Target "Kratky Tank"' id="isso-thread"></div>
+        <div data-title="The universe is not as funny as it thinks" id="isso-thread"></div>
         <script src="https://Jefficus.pythonanywhere.com/js/embed.min.js" data-isso="https://Jefficus.pythonanywhere.com/" data-isso-lang="en"></script></section></article><!--End of body content--><footer id="footer">
             Contents © 2023         <a href="mailto:jeff@smithicus.com">Jefferson Smith</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
